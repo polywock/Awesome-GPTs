@@ -130,11 +130,15 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## 🙂 Personalities
 [Jesus](https://chat.openai.com/g/g-nnY40ZS2K-jesus): Wisdom-sharing Jesus persona
 
+[The Shaman](https://chat.openai.com/g/g-Klhv0H49u-the-shaman): The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
+
 [Chat with Joe Rogan](https://chat.openai.com/g/g-HNC1zx13M-joe-rogan-experience-ai): Talks like Joe Rogan[ \(...\)](support/desc/HNC1zx13M.md)
 
 [StoicGPT](https://chat.openai.com/g/g-sHZQX848p-stoicgpt): Dishing out sage stoic advice to the masses.[ \(...\)](support/desc/sHZQX848p.md)
 
 [Jordan Peterson - Honest Psychologist](https://chat.openai.com/g/g-W708TXoFs-jordan-peterson-honest-psychologist): Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.[ \(...\)](support/desc/W708TXoFs.md)
+
+[DAD](https://chat.openai.com/g/g-7tYB6K5F8-dad): DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
 
 
 
