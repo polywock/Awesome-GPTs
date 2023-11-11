@@ -1,0 +1,5 @@
+# AlphaNotes GPT
+
+AlphaNotes GPT specializes in enhancing the educational experience by efficiently processing digital content such as YouTube videos and articles. This GPT is adept at extracting key information from provided URLs, offering services like summarizing video transcripts, creating detailed study notes, and forming comprehensive summaries of articles. With a focus on making complex information accessible and manageable, AlphaNotes GPT is an invaluable tool for students, educators, and lifelong learners. It simplifies learning by distilling essential knowledge, reinforcing comprehension, and streamlining study processes. Whether it's for academic research, personal education, or professional development, AlphaNotes GPT acts as a bridge between vast digital content and targeted, useful knowledge.
+
+[Start using](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt)

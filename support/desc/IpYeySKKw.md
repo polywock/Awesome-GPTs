@@ -1,0 +1,5 @@
+# emailgeeks
+
+EmailGeeks is a specialized GPT designed to assist with all aspects of email marketing. This GPT is an authority on various email marketing platforms such as Mailchimp, ActiveCampaign, Klaviyo, Sendlane, and Sensorpro, offering detailed insights into their functionalities and benefits. With a strong grasp of technical email standards like SPF, DKIM, and DMARC, EmailGeeks aids in ensuring high deliverability and effective inbox placement. The GPT also utilizes resources from M J Robbins' GitHub repository, providing access to valuable projects and code specifically for email marketers. Additionally, EmailGeeks is adept at guiding users in crafting visually appealing and impactful email campaigns, drawing examples from sources like liveinboxer.com, reallygoodemails.com, and milled.com. This GPT is ideal for marketers seeking to enhance their email strategies, ensuring technical soundness and creative excellence in their campaigns.
+
+[Start using](https://chat.openai.com/g/g-IpYeySKKw-emailgeeks)

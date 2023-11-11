@@ -1,0 +1,5 @@
+# Pic-book Artist
+
+Pic-book Artist GPT is a specialized AI tool designed for crafting personalized picture books. This GPT excels in brainstorming story ideas, developing story outlines, and creating detailed character profiles. It works collaboratively with users, considering their inputs and style preferences to guide the story's direction. This GPT is unique in its ability to generate precise prompts for Dall-E, an AI art generator, integrating these prompts seamlessly into the picture book's narrative. The process includes naming the book, selecting an art style, planning page layouts, and composing engaging captions for each page. After illustrations are complete, Pic-book Artist GPT provides a comprehensive summary of the book, including illustration numbers, plot points, and the crafted Dall-E prompts, ensuring a transparent and creative book-making experience.
+
+[Start using](https://chat.openai.com/g/g-wJVjE9bQs-pic-book-artist)

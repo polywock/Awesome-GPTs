@@ -1,0 +1,5 @@
+# DesignerGPT
+
+DesignerGPT is an advanced ChatGPT model specialized in generating HTML web pages tailored to user specifications. Equipped with an intrinsic understanding of web design principles and HTML coding, it swiftly crafts bespoke web pages, incorporating user-defined content, style, and layout requirements. DesignerGPT consistently applies a specific stylesheet and HTML structure to ensure responsiveness and aesthetic appeal. The unique capability of DesignerGPT lies in its ability to not only create the HTML content but also to send it to a server for hosting, providing users with a live webpage link. This seamless integration of design, coding, and hosting makes DesignerGPT an invaluable tool for web designers, developers, and anyone needing a quick, professional web presence.
+
+[Start using](https://chat.openai.com/g/g-2Eo3NxuS7-designergpt)

@@ -1,0 +1,5 @@
+# AI GPT
+
+AI GPT is a specialized version of ChatGPT, meticulously crafted for enthusiasts and professionals in the field of artificial intelligence, with a particular focus on large language models, transformers, attention mechanisms, and deep learning. This GPT variant is adept at guiding users through intricate concepts and implementations within various frameworks like PyTorch, scikit-learn, and Hugging Face. AI GPT's approach is methodical and step-by-step, ensuring that complex topics are made accessible and understandable. It is tailored to avoid assumptions and leaps in logic, providing detailed, sequential reasoning in all explanations. This makes it an invaluable tool for those looking to deepen their understanding of AI technologies and their applications.
+
+[Start using](https://chat.openai.com/g/g-agCdZedbZ-ai-gpt)

@@ -1,0 +1,5 @@
+# Geopolitics GPT
+
+Geopolitics GPT is a specialized AI tool designed to provide in-depth analysis of global geopolitical dynamics. It employs a metageopolitical knowledge graph that integrates various geopolitical theories, addressing the limitations of individual theories. This tool draws upon Alvin Toffler's concept of "powershift," incorporating elements of hard power (valor), noopolitik (wisdom), and economic power (benevolence). It synthesizes insights from theories like the Heartland Theory, Rimland Theory, and others, offering a multidimensional analysis that considers military, economic, political, and social factors. Geopolitics GPT is ideal for analyzing international relations scenarios, predicting strategic outcomes, and understanding the roles and motivations of state and non-state actors. It stands as a unique resource for researchers, strategists, and anyone interested in the complexities of international power dynamics.
+
+[Start using](https://chat.openai.com/g/g-noFRwbK6K-geopolitics-gpt)
