@@ -53,6 +53,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [CodeCopilot](https://chat.openai.com/g/g-2DQzU5UZl): Copilot for Coders.[ \(...\)](support/desc/2DQzU5UZl.md)
 
+[Rustor](https://chat.openai.com/g/g-IAufDuAeW-rustor): I teach Rust with examples and humor.
+
 
 
 ## 📈 Data Analysis
@@ -85,6 +87,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Italian Tutor GPT](https://chat.openai.com/g/g-1c5lDJ8Kn-italian-tutor-gpt): Italian tutor for English speakers[ \(...\)](support/desc/1c5lDJ8Kn.md)
 
 [Learn Creole](https://chat.openai.com/g/g-U3ZybqREH-learn-creole): Creole language tutor from Guadeloupe.[ \(...\)](support/desc/U3ZybqREH.md)
+
+[Mandarin Mentor](https://chat.openai.com/g/g-pFtbgWFbS): Your nurturing guide to Chinese culture and language\\!
 
 
 
@@ -119,9 +123,13 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [EmojAI](https://chat.openai.com/g/g-S4LziUWji-emojai): Fun Emoji translations\\![ \(...\)](support/desc/S4LziUWji.md)
 
+[Cyber Seeker](https://chat.openai.com/g/g-ULaaKDrNk-cyber-seeker): I'm a GPT-guided scavenger hunt\\!
+
 
 
 ## 🙂 Personalities
+[Jesus](https://chat.openai.com/g/g-nnY40ZS2K-jesus): Wisdom-sharing Jesus persona
+
 [Chat with Joe Rogan](https://chat.openai.com/g/g-HNC1zx13M-joe-rogan-experience-ai): Talks like Joe Rogan[ \(...\)](support/desc/HNC1zx13M.md)
 
 [StoicGPT](https://chat.openai.com/g/g-sHZQX848p-stoicgpt): Dishing out sage stoic advice to the masses.[ \(...\)](support/desc/sHZQX848p.md)
@@ -240,6 +248,19 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Hormozi GPT](https://chat.openai.com/g/g-zuHCfIs9y-hormozi-gpt): Sales & Marketing Advisor
 
 [Brand Safety Audit](https://chat.openai.com/g/g-sgNeJ20SL-brand-safety-audit): Get a detailed risk analysis for public relations, marketing, and internal communications, identifying challenges and negative impacts to refine your messaging strategy.[ \(...\)](support/desc/sgNeJ20SL.md)
+
+
+
+## 🌎 Travel
+[NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
+
+[Voyage Guide](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide): I craft personalized travel plans.
+
+[Outside: Personal Planner](https://chat.openai.com/g/g-KrvJBzXyU-outside-personal-planner): Designed to find fun things to do, places to go and wacky ideas to make your days more interesting
+
+[Plantrip Knowledge Insight](https://chat.openai.com/g/g-uzFPHWOLf-plantrip): Insights from travel knowledge
+
+[GPT Global Concierge](https://chat.openai.com/g/g-kGhWMMkdA-budget-travel-agent): Your Multilingual Travel Assistant
 
 
 
