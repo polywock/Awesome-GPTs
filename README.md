@@ -13,6 +13,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 🖼️ Dall-E
+[Interactive Comic Creation with Jack](https://chat.openai.com/g/g-ASy25fXeS-interactive-comic-creation-with-jack): Jack will help you write comic books, drawing panels, and scoping stories.
+
 [Thumbnail Sketcher](https://chat.openai.com/g/g-Cw11sym4k-thumbnail-sketcher): I create blog thumbnails.[ \(...\)](support/desc/Cw11sym4k.md)
 
 [Pic-book Artist](https://chat.openai.com/g/g-wJVjE9bQs-pic-book-artist): Specialized in creating personalized picture books with integrated Dall-E illustration prompts[ \(...\)](support/desc/wJVjE9bQs.md)
@@ -229,6 +231,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 ## 🪞ChatGPT
 [Promptest](https://chat.openai.com/g/g-jFIhnDtGV-promptest): Your prompt writing teacher. Craft better prompts by using /enhance, /feedback before a prompt. Skill up by submitting /brainstorm or /workout.[ \(...\)](support/desc/jFIhnDtGV.md)
+
+[Prompty](https://chat.openai.com/g/g-aZLV4vji6-prompty): Prompty is your personal prompt engineer. Provide your prompt, and they'll analyze and optimize it using proven techniques such as Chain-of-thought, n-shot and more[ \(...\)](support/desc/aZLV4vji6.md)
 
 [GPT Cookbook Assistant](https://chat.openai.com/g/g-0CJGM4hMw-gpt-cookbook-assistant): Get help with making your own GPT[ \(...\)](support/desc/0CJGM4hMw.md)
 
