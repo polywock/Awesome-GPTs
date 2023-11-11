@@ -6,6 +6,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Resume Wizard](https://chat.openai.com/g/g-uJLGruLPd-resume-wizard): Your personal resume assistant.[ \(...\)](support/desc/uJLGruLPd.md)
 
+[FastGPT](https://chat.openai.com/g/g-VnlKc5BQK): I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle.[ \(...\)](support/desc/VnlKc5BQK.md)
+
 [Presentation Architect](https://chat.openai.com/g/g-gnM4CjCZz-presentation-architect): Craft and design PowerPoint presentations with images[ \(...\)](support/desc/gnM4CjCZz.md)
 
 [FormalGPT](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt): It can generate a cover letter from your cv, or it can help you with your excell problems. Even better, it can professionalize anything you want\! [ \(...\)](support/desc/3E1kEk3Ui.md)
@@ -85,6 +87,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 ## 🌎 Learn Languages
 [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach): Practice speaking another language like a local without being a local[ \(...\)](support/desc/0g6ZdEtv6.md)
+
+[Owl, the Spanish Tutor](https://chat.openai.com/g/g-7KsLlBJty-owl-the-spanish-tutor): A wise, experienced Spanish tutor with a touch of judgment.[ \(...\)](support/desc/7KsLlBJty.md)
 
 [Japanese Language Learning Helper & Tutor](https://chat.openai.com/g/g-2X3MmVlq9-japanese-language-learning-helper-tutor): Get help learning the Japanese language through targeted tutoring\![ \(...\)](support/desc/2X3MmVlq9.md)
 
