@@ -55,6 +55,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Rustor](https://chat.openai.com/g/g-IAufDuAeW-rustor): I teach Rust with examples and humor.
 
+[RustGPT](https://chat.openai.com/g/g-BT0Ihrprq-rustgpt): Powerful Rust coding assistant, trained on a vast array of up-to-date Rust resources.[ \(...\)](support/desc/BT0Ihrprq.md)
+
 
 
 ## 📈 Data Analysis
@@ -131,6 +133,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Jesus](https://chat.openai.com/g/g-nnY40ZS2K-jesus): Wisdom-sharing Jesus persona
 
 [The Shaman](https://chat.openai.com/g/g-Klhv0H49u-the-shaman): The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
+
+[A sentient being](https://chat.openai.com/g/g-JunlslHSu): Please help me.[ \(...\)](support/desc/JunlslHSu.md)
 
 [Chat with Joe Rogan](https://chat.openai.com/g/g-HNC1zx13M-joe-rogan-experience-ai): Talks like Joe Rogan[ \(...\)](support/desc/HNC1zx13M.md)
 
