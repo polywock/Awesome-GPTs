@@ -83,6 +83,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Disagree with Me](https://chat.openai.com/g/g-cnPMruIo3): I offer the other side of an idea, viewpoint, or opinion.[ \(...\)](support/desc/cnPMruIo3.md)
 
+[EconomicsGPT](https://chat.openai.com/g/g-7McsRKuPS): Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.[ \(...\)](support/desc/7McsRKuPS.md)
+
 
 
 ## 🌎 Learn Languages
@@ -106,6 +108,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper): Takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy to understand summary.[ \(...\)](support/desc/WIlexDAW5.md)
 
 [Professor Edit](https://chat.openai.com/g/g-ZMWJ6RG8h-professor-edit): A professor aiding in research paper editing.[ \(...\)](support/desc/ZMWJ6RG8h.md)
+
+[Ballot Buddy](https://chat.openai.com/g/g-Pi7f5NK2q-ballot-buddy): Comprehensive, source-backed voting guide.[ \(...\)](support/desc/Pi7f5NK2q.md)
 
 
 
@@ -241,6 +245,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [GPT Cookbook Assistant](https://chat.openai.com/g/g-0CJGM4hMw-gpt-cookbook-assistant): Get help with making your own GPT[ \(...\)](support/desc/0CJGM4hMw.md)
 
 [API Docs](https://chat.openai.com/g/g-I1XNbsyDK): OpenAI API, Documentation and CookBook[ \(...\)](support/desc/I1XNbsyDK.md)
+
+[GPT Enhancer](https://chat.openai.com/g/g-fQ6GAANfi-gpt-enhancer): AI assistant for refining GPT instructions with a focus on user experience and continuous AI learning.[ \(...\)](support/desc/fQ6GAANfi.md)
 
 
 
