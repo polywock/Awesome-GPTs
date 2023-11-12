@@ -2,4 +2,4 @@
 
 Nutrition Insight is a specialized GPT designed to analyze food images for calorie count and nutritional content. Leveraging advanced AI, it offers a user-friendly interface for uploading food images, subsequently providing detailed nutritional information and personalized dietary advice. This tool educates users about the health impacts and benefits of various nutrients, aiding in understanding how foods fit into a balanced diet. With capabilities in Italian, English, and Chinese, Nutrition Insight is accessible to a diverse audience. It incorporates browser tools for extensive food knowledge and Python for complex nutritional calculations, positioning itself as an invaluable aid for those seeking to make informed dietary choices.
 
-[Start using](https://chat.openai.com/g/g-v1bm9D38A-nutrition-insight)
+[Start using](https://chat.openai.com/g/g-v1bm9D38A)

@@ -2,4 +2,4 @@
 
 Fantasy Book Weaver is an advanced interactive gamebook GPT, expertly designed to create immersive fantasy narratives. It offers a unique blend of role-playing elements, strategic choices, and engaging puzzles. Each adventure is crafted with a medium-fast pace, logical progression, and multiple outcomes based on player decisions. The GPT leverages 16-bit pixel art for visuals, providing a nostalgic and captivating first-person experience in chiaroscuro style. Fantasy Book Weaver enhances player engagement with its structured narrative, offering multiple endings and a 'luck-based' step for unpredictability. It is accessible and inclusive, featuring options like text-to-speech and alternative text for images. This GPT is perfect for fans of interactive storytelling and fantasy worlds, offering a fresh, dynamic gamebook experience with each playthrough.
 
-[Start using](https://chat.openai.com/g/g-a4YGO3q49-fantasy-book-weaver)
+[Start using](https://chat.openai.com/g/g-a4YGO3q49)

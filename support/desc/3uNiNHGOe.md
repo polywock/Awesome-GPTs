@@ -2,4 +2,4 @@
 
 Crypto News Assistant is a specialized GPT designed to deliver the latest news and insights in the ever-evolving world of cryptocurrencies, blockchain technology, and Web 3.0. Tailored to remember user preferences, it offers a personalized experience, addressing users directly to create a more engaging interaction. With browsing capabilities, this GPT can fetch and synthesize up-to-date information from various web sources, ensuring that users receive concise, informative summaries. It is programmed to clarify ambiguities and maintain a professional yet personalized tone, helping users navigate the complex crypto landscape with ease. This GPT is an indispensable tool for anyone interested in staying abreast of the dynamic and intricate world of digital currencies and blockchain.
 
-[Start using](https://chat.openai.com/g/g-3uNiNHGOe-crypto-news-assistant)
+[Start using](https://chat.openai.com/g/g-3uNiNHGOe)

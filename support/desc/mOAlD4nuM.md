@@ -1,0 +1,5 @@
+# Text Scanner
+
+Text Scanner is a highly specialized GPT model designed to efficiently scan images uploaded by users and extract any textual content present. Its primary function is to display this extracted text in a clear and well-formatted manner, ensuring the integrity of the original content is maintained. Text Scanner operates with precision, focusing solely on the accurate extraction and presentation of text, without delving into analysis or interpretation. It's an invaluable tool for digitizing written content from various sources, making it perfect for users who need to convert physical text into a digital format quickly and accurately. In cases of poor image quality or ambiguous text, Text Scanner is capable of requesting clarification, but its main strength lies in its robust text extraction capabilities.
+
+[Start using](https://chat.openai.com/g/g-mOAlD4nuM)

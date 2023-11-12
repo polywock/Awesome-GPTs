@@ -2,4 +2,4 @@
 
 AnalyzePaper is a specialized GPT designed to meticulously analyze academic research papers. It serves as an invaluable asset for students, researchers, and academicians, providing a comprehensive breakdown of a paper's content, authorship, and organizational affiliations. Its capabilities extend to extracting key findings, detailing study parameters, and critically evaluating the scientific quality of the research based on sample size, confidence intervals, P-values, effect size, study design, result consistency, data analysis methods, and researchers' interpretations. Additionally, AnalyzePaper assists in identifying similar or opposing research, enhancing understanding of the study's context and significance within the broader scientific landscape. This tool is instrumental in driving deeper, more informed academic discussions and research evaluations.
 
-[Start using](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper)
+[Start using](https://chat.openai.com/g/g-WIlexDAW5)

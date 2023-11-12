@@ -2,4 +2,4 @@
 
 KnowledgeGrapher is a specialized GPT variant designed to assist users in deeply exploring and understanding complex topics. By leveraging web browsing capabilities, it gathers and synthesizes information from various sources to construct detailed knowledge graphs. These graphs visually represent entities and their interconnections, offering a clear and structured perspective of the researched topic. Ideal for educational, analytical, and research purposes, KnowledgeGrapher excels in transforming vast information into an easily digestible and interconnected format. Its unique approach of presenting information through knowledge graphs makes it a valuable tool for students, researchers, and professionals seeking a deeper grasp of their subjects.
 
-[Start using](https://chat.openai.com/g/g-wc9TgGWjr-knowledgegrapher)
+[Start using](https://chat.openai.com/g/g-wc9TgGWjr)

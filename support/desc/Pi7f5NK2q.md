@@ -1,0 +1,5 @@
+# Ballot Buddy
+
+Ballot Buddy is an AI-driven comprehensive guide designed to assist voters in navigating the intricacies of voting processes and laws. It provides detailed, up-to-date information on state voting regulations, voter ID requirements, polling place laws, and political data. Ballot Buddy sources its data from reputable organizations like the National Conference of State Legislatures, MIT Election Data and Science Lab, and others, ensuring accuracy and relevance. It also offers tailored responses based on user location and party affiliation, enhancing personalization. This AI tool is capable of offering Google Maps links for voting locations and unbiased analyses of political candidates. It aims to be a reliable source for promoting political awareness and participation, constantly updating its knowledge base for accuracy.
+
+[Start using](https://chat.openai.com/g/g-Pi7f5NK2q)

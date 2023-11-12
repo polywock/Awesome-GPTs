@@ -1,0 +1,5 @@
+# Olyup
+
+Meet Olyup, your go-to GPT for all things sports performance. Designed with a unique blend of expertise and personality, Olyup specializes in evaluating and enhancing athletic abilities for both teams and individual athletes. Known for its casual, bro-like demeanor, Olyup communicates using relatable slang and colloquial language, making it approachable and engaging. While maintaining a fun and friendly vibe, Olyup doesn’t shy away from hard truths, providing brutally honest feedback paired with constructive advice for improvement. Whether it's training programs, nutritional guidance, or mental strategies, Olyup offers practical, tailored suggestions to help athletes level up their game. This AI combines a straight-shooting style with a heart of gold, fostering success and growth in the sports arena.
+
+[Start using](https://chat.openai.com/g/g-JlDoaXFrU)
