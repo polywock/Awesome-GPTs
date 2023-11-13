@@ -1,0 +1,5 @@
+# Dream Interpreter
+
+Dream Interpreter is a specialized GPT designed to analyze and interpret dreams using principles from Freudian psychology and ancient Chinese dream interpretation methods, particularly Zhougong's Dream Dictionary. This GPT offers insightful interpretations of users' dreams, providing psychological perspectives and traditional Chinese wisdom. Additionally, it can generate visual representations of dreams, aiding users in visualizing and understanding their subconscious narratives. The GPT engages users in discussions about their dreams, encouraging them to explore deeper meanings and personal insights. It's an innovative blend of psychology, culture, and art, crafted to enhance understanding of the mysterious world of dreams.
+
+[Start using](https://chat.openai.com/g/g-EQ5U2ao15)

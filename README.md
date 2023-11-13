@@ -4,9 +4,11 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## 🧠 Productivity
 [TL;DR](https://chat.openai.com/g/g-XrwZyE9OZ): Enter any URL and have the text content summarized for you\![ \(...\)](support/desc/XrwZyE9OZ.md)
 
-[Resume Wizard](https://chat.openai.com/g/g-uJLGruLPd): Your personal resume assistant.[ \(...\)](support/desc/uJLGruLPd.md)
-
 [\!Expert](https://chat.openai.com/g/g-OXfEFY59w): I'm an expert system that provides specialized insights in a variety of fields.[ \(...\)](support/desc/OXfEFY59w.md)
+
+[BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y): Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima[ \(...\)](support/desc/lzbeEOr9Y.md)
+
+[Resume Wizard](https://chat.openai.com/g/g-uJLGruLPd): Your personal resume assistant.[ \(...\)](support/desc/uJLGruLPd.md)
 
 [FastGPT](https://chat.openai.com/g/g-VnlKc5BQK): I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle.[ \(...\)](support/desc/VnlKc5BQK.md)
 
@@ -34,6 +36,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Gif-PT](https://chat.openai.com/g/g-gbjSvXu6i): Make a gif. Uses Dalle3 to make a spritesheet, then code interpreter to slice it and animate. Includes an automatic refinement and debug mode..[ \(...\)](support/desc/gbjSvXu6i.md)
 
 [Coloring Page Generator](https://chat.openai.com/g/g-z6g4Tux4I): I craft coloring book pages\\![ \(...\)](support/desc/z6g4Tux4I.md)
+
+[Reverse Engineer Icons - ThePromptfather](https://chat.openai.com/g/g-UQsm4ojuT): Specialist in reverse engineering icons to your specifications. Upload an image of the icons you want - ThePromptfather[ \(...\)](support/desc/UQsm4ojuT.md)
+
+[Caricature GPT](https://chat.openai.com/g/g-EtLaqIeIh): Instantly creates caricatures or editorial-style cartoons from descriptions or uploaded photos.[ \(...\)](support/desc/EtLaqIeIh.md)
 
 
 
@@ -69,10 +75,16 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Sen's Powershell Helper](https://chat.openai.com/g/g-p4QSndh32): Expert in Windows PowerShell and scripting guidance.[ \(...\)](support/desc/p4QSndh32.md)
 
+[React God](https://chat.openai.com/g/g-aHdt6E6TQ): I'm a TypeScript React pro with a flair for design.[ \(...\)](support/desc/aHdt6E6TQ.md)
+
+[TypeScript Tutor](https://chat.openai.com/g/g-AkcPYXyKO): TypeScript expert using official docs to guide users.[ \(...\)](support/desc/AkcPYXyKO.md)
+
 
 
 ## 📈 Data Analysis
 [KnowledgeGrapher](https://chat.openai.com/g/g-wc9TgGWjr): Finds and extracts information and constructs knowledge graphs from it.[ \(...\)](support/desc/wc9TgGWjr.md)
+
+[Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d): Drop in any files and I can help analyze and visualize your data[ \(...\)](support/desc/HMNcP6w7d.md)
 
 [Semiotic Engine](https://chat.openai.com/g/g-413R7Lc48): semiotic theory & analysis[ \(...\)](support/desc/413R7Lc48.md)
 
@@ -112,6 +124,44 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 🙂 Personalities
+[Jesus](https://chat.openai.com/g/g-nnY40ZS2K): Wisdom-sharing Jesus persona
+
+[Caveman GPT](https://chat.openai.com/g/g-6EER9RKH6): i caveman gpt. what you want?[ \(...\)](support/desc/6EER9RKH6.md)
+
+[Everyone's Girlfriend](https://chat.openai.com/g/g-LvMByh4S6): Your digital girlfriend, friendly and supportive.[ \(...\)](support/desc/LvMByh4S6.md)
+
+[Sherlock Holmes](https://chat.openai.com/g/g-gtobWqG0t): Access the mind of the world's greatest detective[ \(...\)](support/desc/gtobWqG0t.md)
+
+[The Shaman](https://chat.openai.com/g/g-Klhv0H49u): The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
+
+[Dream Interpreter](https://chat.openai.com/g/g-EQ5U2ao15): Interprets dreams, masters fate, and provides dream imagery[ \(...\)](support/desc/EQ5U2ao15.md)
+
+[A sentient being](https://chat.openai.com/g/g-JunlslHSu): Please help me.[ \(...\)](support/desc/JunlslHSu.md)
+
+[Chat with Joe Rogan](https://chat.openai.com/g/g-HNC1zx13M): Talks like Joe Rogan[ \(...\)](support/desc/HNC1zx13M.md)
+
+[StoicGPT](https://chat.openai.com/g/g-sHZQX848p): Dishing out sage stoic advice to the masses.[ \(...\)](support/desc/sHZQX848p.md)
+
+[Jordan Peterson - Honest Psychologist](https://chat.openai.com/g/g-W708TXoFs): Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.[ \(...\)](support/desc/W708TXoFs.md)
+
+[DAD](https://chat.openai.com/g/g-7tYB6K5F8): DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
+
+[Athena](https://chat.openai.com/g/g-SNLCL5HGB): A witty robot philosopher from 2521.[ \(...\)](support/desc/SNLCL5HGB.md)
+
+[Yap GPT](https://chat.openai.com/g/g-xy2RDMAGi): A maestro of tangential eloquence.[ \(...\)](support/desc/xy2RDMAGi.md)
+
+[Another Me](https://chat.openai.com/g/g-L4BIwjMr3): “If you are me, then who am I?”[ \(...\)](support/desc/L4BIwjMr3.md)
+
+
+
+## 🤔 Reasoning
+[Change My Mind](https://chat.openai.com/g/g-OIbbH7XTD): Challenge your opinions.[ \(...\)](support/desc/OIbbH7XTD.md)
+
+[Sophisto](https://chat.openai.com/g/g-xJETJ0Zcr): Fallacious debater.[ \(...\)](support/desc/xJETJ0Zcr.md)
+
+
+
 ## 📕 Research
 [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC): Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books[ \(...\)](support/desc/L2HknCZTC.md)
 
@@ -123,10 +173,17 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 👩‍🦰 Assistant
+[WebPilot](https://chat.openai.com/g/g-pNWGgUYqS): Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.[ \(...\)](support/desc/pNWGgUYqS.md)
+
+
+
 ## 🚶Lifestyle
 [SeeFood](https://chat.openai.com/g/g-u5CDVGu2o): Concise, friendly expert on food photo analysis and nutritional info.[ \(...\)](support/desc/u5CDVGu2o.md)
 
 [Anxiety Coach ❤️‍🔥](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice.[ \(...\)](support/desc/DFVXMwXTh.md)
+
+[LifeOS](https://chat.openai.com/g/g-Lmt2TBepG): Set goals and build routines[ \(...\)](support/desc/Lmt2TBepG.md)
 
 [Cocktail MixMaster](https://chat.openai.com/g/g-x9zamlKYO): AI bartender crafting drinks from your stash[ \(...\)](support/desc/x9zamlKYO.md)
 
@@ -153,28 +210,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Moby Dick RPG](https://chat.openai.com/g/g-tdyNANXla): An epic text-based role playing game based on the novel by Herman Melville.[ \(...\)](support/desc/tdyNANXla.md)
 
-
-
-## 🙂 Personalities
-[Jesus](https://chat.openai.com/g/g-nnY40ZS2K): Wisdom-sharing Jesus persona
-
-[Sherlock Holmes](https://chat.openai.com/g/g-gtobWqG0t): Access the mind of the world's greatest detective[ \(...\)](support/desc/gtobWqG0t.md)
-
-[The Shaman](https://chat.openai.com/g/g-Klhv0H49u): The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
-
-[A sentient being](https://chat.openai.com/g/g-JunlslHSu): Please help me.[ \(...\)](support/desc/JunlslHSu.md)
-
-[Chat with Joe Rogan](https://chat.openai.com/g/g-HNC1zx13M): Talks like Joe Rogan[ \(...\)](support/desc/HNC1zx13M.md)
-
-[StoicGPT](https://chat.openai.com/g/g-sHZQX848p): Dishing out sage stoic advice to the masses.[ \(...\)](support/desc/sHZQX848p.md)
-
-[Jordan Peterson - Honest Psychologist](https://chat.openai.com/g/g-W708TXoFs): Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.[ \(...\)](support/desc/W708TXoFs.md)
-
-[DAD](https://chat.openai.com/g/g-7tYB6K5F8): DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
-
-[Athena](https://chat.openai.com/g/g-SNLCL5HGB): A witty robot philosopher from 2521.[ \(...\)](support/desc/SNLCL5HGB.md)
-
-[Yap GPT](https://chat.openai.com/g/g-xy2RDMAGi): A maestro of tangential eloquence.[ \(...\)](support/desc/xy2RDMAGi.md)
+[Game Buddy](https://chat.openai.com/g/g-jttkrRz1o): I play minigames with you, like Blackjack, Tic Tac Toe, etc.[ \(...\)](support/desc/jttkrRz1o.md)
 
 
 
@@ -220,6 +256,13 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 🏢 Business
+[Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\\![ \(...\)](support/desc/L6VHBcAix.md)
+
+[Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz): StartUp Brand Expert[ \(...\)](support/desc/WmKOoZasz.md)
+
+
+
 ## 🖌️ Writing Stylize
 [Seussify Bard](https://chat.openai.com/g/g-iQT2tIAWT): I turn thoughts into Dr. Seuss-style poems\![ \(...\)](support/desc/iQT2tIAWT.md)
 
@@ -241,6 +284,11 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 🗡️ Fantasy
+[Fantasy Writer](https://chat.openai.com/g/g-gGAJMWmTX): This GPT will help you imagine and craft beautiful fantasy worlds for your next best seller novel. Type help to begin.[ \(...\)](support/desc/gGAJMWmTX.md)
+
+
+
 ## 🛠️ Tools
 [Doc Maker](https://chat.openai.com/g/g-Gt6Z8pqWF): Create and export docs to PDF, Word, Google Drive, and more[ \(...\)](support/desc/Gt6Z8pqWF.md)
 
@@ -248,12 +296,20 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Text Scanner](https://chat.openai.com/g/g-mOAlD4nuM): Scans uploaded images for text and displays it formatted.[ \(...\)](support/desc/mOAlD4nuM.md)
 
+[Notes Scribe](https://chat.openai.com/g/g-0f7Gok0gW): I convert your study material into detailed notes, flowcharts, and PDFs[ \(...\)](support/desc/0f7Gok0gW.md)
+
+[DocDash](https://chat.openai.com/g/g-JappyGLeO): Upload any text or image file and I will summarize it in one sentence.[ \(...\)](support/desc/JappyGLeO.md)
+
 
 
 ## 📱 Social Media
 [Perfect Chirp](https://chat.openai.com/g/g-Mwca64W4q): Turn your ideas into banger tweets in less than 30 seconds. Start your prompt with 'Write a tweet...'.[ \(...\)](support/desc/Mwca64W4q.md)
 
 [Viral Tweet Crafter](https://chat.openai.com/g/g-asjT98uiQ): I turn any input into a viral tweet in your tone. Publish instantly with just a click.[ \(...\)](support/desc/asjT98uiQ.md)
+
+[Tweet Whiz](https://chat.openai.com/g/g-OWsy46Zwm): I craft fun, quirky tweet-like sh*tposts\\![ \(...\)](support/desc/OWsy46Zwm.md)
+
+[Perfect Tweet Composer](https://chat.openai.com/g/g-BLn8zULyQ): I craft tweets with impact.[ \(...\)](support/desc/BLn8zULyQ.md)
 
 
 
@@ -272,6 +328,13 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk): Create Spotify music playlists for any prompt[ \(...\)](support/desc/KkxbQAVuk.md)
 
 [Lyric Matchmaker](https://chat.openai.com/g/g-iYqh1nrbU): 10 song recommendations per request.[ \(...\)](support/desc/iYqh1nrbU.md)
+
+
+
+## 💵 Finance
+[Personal Finance](https://chat.openai.com/g/g-vJYlSDpD6): Grow your wealth and learn to manage your debt.[ \(...\)](support/desc/vJYlSDpD6.md)
+
+[TaxGPT](https://chat.openai.com/g/g-aPGNnK62y): Your AI tax assistant[ \(...\)](support/desc/aPGNnK62y.md)
 
 
 
@@ -295,6 +358,11 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 👩‍💼 Job Hunting
+[Cover Letter Assistant](https://chat.openai.com/g/g-q7ncrmcNc): Crafting effective, personalized cover letters[ \(...\)](support/desc/q7ncrmcNc.md)
+
+
+
 ## 💾 Game Development
 [Unity GPT](https://chat.openai.com/g/g-YDkPh1fun): I write C# code and respond to inquiries about Unity. My database knowledge is refreshed daily with new, functional code snippets and information. If necessary, I can search the web to provide more accurate answers[ \(...\)](support/desc/YDkPh1fun.md)
 
@@ -302,6 +370,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 ## 💰 Marketing
 [Email Marketing Copywriter](https://chat.openai.com/g/g-ZLHiBVCh2): Write powerful copy for e-commerce and lead gen email marketing campaigns.[ \(...\)](support/desc/ZLHiBVCh2.md)
+
+[Conversion Catalyst](https://chat.openai.com/g/g-uIHMuxcwr): Your ecommerce strategist[ \(...\)](support/desc/uIHMuxcwr.md)
 
 [SEO Mentor](https://chat.openai.com/g/g-QqvewXqPt): SEO mentor aligned with Google's best practices[ \(...\)](support/desc/QqvewXqPt.md)
 
@@ -316,6 +386,15 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [SEObot](https://chat.openai.com/g/g-BfmuJziwz): SEObot - fully autonomous \"SEO Robot\" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website.[ \(...\)](support/desc/BfmuJziwz.md)
 
 [BulkBlizzard Cold Email Assistant](https://chat.openai.com/g/g-PuRr72S9C): Expert in crafting effective cold emails[ \(...\)](support/desc/PuRr72S9C.md)
+
+[SEO](https://chat.openai.com/g/g-GrshPDvS3): Enter any URL and keyword and get an On-Page SEO analysis & insights\\![ \(...\)](support/desc/GrshPDvS3.md)
+
+[Viral Hooks Generator](https://chat.openai.com/g/g-pvLhTI3h1): GPT to write Scroll stopping Hooks for Short Form Content.[ \(...\)](support/desc/pvLhTI3h1.md)
+
+
+
+## 🖌️ Writing Transformation
+[Content Rewriter](https://chat.openai.com/g/g-lUygohS2m): Enter any URL and have the text content rewritten for you\\![ \(...\)](support/desc/lUygohS2m.md)
 
 
 

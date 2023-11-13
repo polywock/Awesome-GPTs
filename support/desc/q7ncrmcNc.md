@@ -1,0 +1,5 @@
+# Cover Letter Assistant
+
+Cover Letter Assistant is a specialized AI tool designed to aid users in creating personalized and effective cover letters for job applications. Utilizing a collaborative approach, it gathers information about the job offer, the company, and the user's professional background. The assistant emphasizes key aspects such as researching the company, personalizing the letter, showcasing achievements, and maintaining a professional tone. It offers tailored advice based on industry standards and the user's specific skills, ensuring that each cover letter aligns with the job requirements and highlights the user's unique value. This AI prioritizes user privacy and confidentiality, providing a safe and efficient way to enhance job application materials.
+
+[Start using](https://chat.openai.com/g/g-q7ncrmcNc)

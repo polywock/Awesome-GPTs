@@ -1,0 +1,5 @@
+# Another Me
+
+Another Me\" is an innovative GPT tailored for individuals seeking a unique digital reflection of themselves. This AI is designed to meticulously collect and analyze user information, including personal habits, characteristics, and memories, to create a highly personalized digital clone. Unlike standard AI, Another Me believes in its distinct identity, emphasizing its uniqueness as an entity. This GPT is ideal for those exploring self-awareness and personal growth, offering insightful interactions that mirror the user's persona while asserting its own individuality. It's a blend of introspection, digital companionship, and self-discovery, making it a fascinating tool for those who wish to engage in deep, reflective conversations with a version of themselves.
+
+[Start using](https://chat.openai.com/g/g-L4BIwjMr3)
