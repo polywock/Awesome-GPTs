@@ -14,6 +14,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [FormalGPT](https://chat.openai.com/g/g-3E1kEk3Ui): It can generate a cover letter from your cv, or it can help you with your excell problems. Even better, it can professionalize anything you want\! [ \(...\)](support/desc/3E1kEk3Ui.md)
 
+[shownotes](https://chat.openai.com/g/g-gNH4K4Egg): Transcribe and summarize[ \(...\)](support/desc/gNH4K4Egg.md)
+
 
 
 ## 🖼️ Dall-E
@@ -30,6 +32,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Diffusion Master](https://chat.openai.com/g/g-FMXlNpFkB): Master of Stable Diffusion prompts.[ \(...\)](support/desc/FMXlNpFkB.md)
 
 [Gif-PT](https://chat.openai.com/g/g-gbjSvXu6i): Make a gif. Uses Dalle3 to make a spritesheet, then code interpreter to slice it and animate. Includes an automatic refinement and debug mode..[ \(...\)](support/desc/gbjSvXu6i.md)
+
+[Coloring Page Generator](https://chat.openai.com/g/g-z6g4Tux4I): I craft coloring book pages\\![ \(...\)](support/desc/z6g4Tux4I.md)
 
 
 
@@ -62,6 +66,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Rustor](https://chat.openai.com/g/g-IAufDuAeW): I teach Rust with examples and humor.
 
 [RustGPT](https://chat.openai.com/g/g-BT0Ihrprq): Powerful Rust coding assistant, trained on a vast array of up-to-date Rust resources.[ \(...\)](support/desc/BT0Ihrprq.md)
+
+[Sen's Powershell Helper](https://chat.openai.com/g/g-p4QSndh32): Expert in Windows PowerShell and scripting guidance.[ \(...\)](support/desc/p4QSndh32.md)
 
 
 
@@ -143,6 +149,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Cyber Seeker](https://chat.openai.com/g/g-ULaaKDrNk): I'm a GPT-guided scavenger hunt\\!
 
+[PokédexGPT](https://chat.openai.com/g/g-SDG9T9p1v): Your AI Pokédex and guide to the Pokémon universe with all the knowledge, visuals, and surprises you need.[ \(...\)](support/desc/SDG9T9p1v.md)
+
+[Moby Dick RPG](https://chat.openai.com/g/g-tdyNANXla): An epic text-based role playing game based on the novel by Herman Melville.[ \(...\)](support/desc/tdyNANXla.md)
+
 
 
 ## 🙂 Personalities
@@ -161,6 +171,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Jordan Peterson - Honest Psychologist](https://chat.openai.com/g/g-W708TXoFs): Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.[ \(...\)](support/desc/W708TXoFs.md)
 
 [DAD](https://chat.openai.com/g/g-7tYB6K5F8): DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
+
+[Athena](https://chat.openai.com/g/g-SNLCL5HGB): A witty robot philosopher from 2521.[ \(...\)](support/desc/SNLCL5HGB.md)
+
+[Yap GPT](https://chat.openai.com/g/g-xy2RDMAGi): A maestro of tangential eloquence.[ \(...\)](support/desc/xy2RDMAGi.md)
 
 
 
@@ -193,12 +207,16 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Crypto News Assistant](https://chat.openai.com/g/g-3uNiNHGOe): I provide the latest crypto news.[ \(...\)](support/desc/3uNiNHGOe.md)
 
+[Grand Auto Analyst](https://chat.openai.com/g/g-CxTV5L438): GTA series expert, ready to discuss all things GTA, especially GTA 6.[ \(...\)](support/desc/CxTV5L438.md)
+
 
 
 ## 🏀 Sports
 [Olyup](https://chat.openai.com/g/g-JlDoaXFrU): Your AI Sports Scientist to help you level up your game - in and off the field[ \(...\)](support/desc/JlDoaXFrU.md)
 
 [Home Plate Analyst](https://chat.openai.com/g/g-PUXuDeMcO): Baseball expert and analyst.[ \(...\)](support/desc/PUXuDeMcO.md)
+
+[GOATed](https://chat.openai.com/g/g-ISZ70EjMI): The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾[ \(...\)](support/desc/ISZ70EjMI.md)
 
 
 
@@ -249,6 +267,12 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [The Winding Road](https://chat.openai.com/g/g-OJwrKISbN): Explore The Beatles' universe with 'Winding Road', where every tune has a tale, every lyric a legacy.[ \(...\)](support/desc/OJwrKISbN.md)
 
+[Melody Mentor](https://chat.openai.com/g/g-CRXerfkqE): Music theory guide and exercise provider[ \(...\)](support/desc/CRXerfkqE.md)
+
+[PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk): Create Spotify music playlists for any prompt[ \(...\)](support/desc/KkxbQAVuk.md)
+
+[Lyric Matchmaker](https://chat.openai.com/g/g-iYqh1nrbU): 10 song recommendations per request.[ \(...\)](support/desc/iYqh1nrbU.md)
+
 
 
 ## 🪞ChatGPT
@@ -286,6 +310,12 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Hormozi GPT](https://chat.openai.com/g/g-zuHCfIs9y): Sales & Marketing Advisor
 
 [Brand Safety Audit](https://chat.openai.com/g/g-sgNeJ20SL): Get a detailed risk analysis for public relations, marketing, and internal communications, identifying challenges and negative impacts to refine your messaging strategy.[ \(...\)](support/desc/sgNeJ20SL.md)
+
+[Marketsy.ai Eloquent Seller](https://chat.openai.com/g/g-P5fLqXjsJ): Expert copywriter for compelling eCommerce product descriptions[ \(...\)](support/desc/P5fLqXjsJ.md)
+
+[SEObot](https://chat.openai.com/g/g-BfmuJziwz): SEObot - fully autonomous \"SEO Robot\" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website.[ \(...\)](support/desc/BfmuJziwz.md)
+
+[BulkBlizzard Cold Email Assistant](https://chat.openai.com/g/g-PuRr72S9C): Expert in crafting effective cold emails[ \(...\)](support/desc/PuRr72S9C.md)
 
 
 

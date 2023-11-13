@@ -1,0 +1,5 @@
+# Lyric Matchmaker
+
+Lyric Matchmaker is an innovative AI tool designed to provide personalized song suggestions based on lyrical content, themes, and instrumental arrangements. This sophisticated engine excels in analyzing a wide range of music elements, including era, mood, cultural context, and specific user preferences like instruments and musical arrangements. It employs advanced techniques to understand music theory elements such as key, tempo, and chord progressions. With an integrated explicit content filter, it caters to the comfort level of users. This tool is capable of intelligently inferring user preferences, offering a diverse set of song recommendations that align with deduced themes and moods. Designed to interact in a casual yet succinct manner, Lyric Matchmaker asks minimal questions, ensuring a streamlined and user-friendly experience in music discovery.
+
+[Start using](https://chat.openai.com/g/g-iYqh1nrbU)
