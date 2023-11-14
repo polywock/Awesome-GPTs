@@ -1,0 +1,5 @@
+# Cold Email Mentor
+
+Cold Email Mentor is a specialized GPT designed to assist startups and individuals in creating effective, high-conversion cold emails. It leverages the AIDA (Attention, Interest, Desire, Action) formula, emphasizing concise, personalized messaging that avoids appearing spam-like. This GPT asks critical questions about the user's product, target audience, and objectives to tailor cold email templates specifically to their needs. It offers expert advice on crafting compelling subject lines, demonstrating clear benefits, establishing credibility, and employing polite persistence in follow-up communications. Ideal for marketing, sales, and networking efforts, it is a valuable tool for anyone looking to enhance their cold emailing skills.
+
+[Start using](https://chat.openai.com/g/g-pyAi2HcLH)

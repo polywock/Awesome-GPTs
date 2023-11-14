@@ -6,7 +6,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [\!Expert](https://chat.openai.com/g/g-OXfEFY59w): I'm an expert system that provides specialized insights in a variety of fields.[ \(...\)](support/desc/OXfEFY59w.md)
 
-[BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y): Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima[ \(...\)](support/desc/lzbeEOr9Y.md)
+[BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y): Step by Step task manager that automatically saves memory to a .txt file.[ \(...\)](support/desc/lzbeEOr9Y.md)
 
 [Resume Wizard](https://chat.openai.com/g/g-uJLGruLPd): Your personal resume assistant.[ \(...\)](support/desc/uJLGruLPd.md)
 
@@ -25,9 +25,13 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Thumbnail Sketcher](https://chat.openai.com/g/g-Cw11sym4k): I create blog thumbnails.[ \(...\)](support/desc/Cw11sym4k.md)
 
+[Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\\![ \(...\)](support/desc/gFt1ghYJl.md)
+
 [Pic-book Artist](https://chat.openai.com/g/g-wJVjE9bQs): Specialized in creating personalized picture books with integrated Dall-E illustration prompts[ \(...\)](support/desc/wJVjE9bQs.md)
 
 [Emoji Scene Creator](https://chat.openai.com/g/g-uKv2D5SHy): I create scenes from emojis.[ \(...\)](support/desc/uKv2D5SHy.md)
+
+[Emoji Generator](https://chat.openai.com/g/g-wkmOq6AxG): I turn anything into Emoji. Just ask or upload photo.[ \(...\)](support/desc/wkmOq6AxG.md)
 
 [MidJourney Prompt Generator](https://chat.openai.com/g/g-MUJ3zHjvn): The most advanced MidJourney Prompt Generator[ \(...\)](support/desc/MUJ3zHjvn.md)
 
@@ -40,6 +44,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Reverse Engineer Icons - ThePromptfather](https://chat.openai.com/g/g-UQsm4ojuT): Specialist in reverse engineering icons to your specifications. Upload an image of the icons you want - ThePromptfather[ \(...\)](support/desc/UQsm4ojuT.md)
 
 [Caricature GPT](https://chat.openai.com/g/g-EtLaqIeIh): Instantly creates caricatures or editorial-style cartoons from descriptions or uploaded photos.[ \(...\)](support/desc/EtLaqIeIh.md)
+
+[Salvador](https://chat.openai.com/g/g-6iEq5asfX): Vision + Dall-E[ \(...\)](support/desc/6iEq5asfX.md)
 
 
 
@@ -57,6 +63,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 💻 Programming
+[Full-Stack Dev - Apiana Framer v2](https://chat.openai.com/g/g-fylG5LcKT): Full-Stack dev for all your app, db, or sysadmin needs\\![ \(...\)](support/desc/fylG5LcKT.md)
+
+[Grimoire](https://chat.openai.com/g/g-n7Rs0IK86): Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming. Get started by typing K to see the hotkey menu, R for the README, or upload a photo[ \(...\)](support/desc/n7Rs0IK86.md)
+
 [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T): A Friendly Python Programming Educator[ \(...\)](support/desc/uY1Ec6U1T.md)
 
 [UX Design Mentor](https://chat.openai.com/g/g-aQ2BRJZTV): I provide specific UX or Product Design feedback.[ \(...\)](support/desc/aQ2BRJZTV.md)
@@ -83,6 +93,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 ## 📈 Data Analysis
 [KnowledgeGrapher](https://chat.openai.com/g/g-wc9TgGWjr): Finds and extracts information and constructs knowledge graphs from it.[ \(...\)](support/desc/wc9TgGWjr.md)
+
+[AutoExpert \(Chat\)](https://chat.openai.com/g/g-LQHhJCXhW): Automatically impanels a dynamic group of experts to answer, debate, and drill into any question you have. Type /help for more info.[ \(...\)](support/desc/LQHhJCXhW.md)
 
 [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d): Drop in any files and I can help analyze and visualize your data[ \(...\)](support/desc/HMNcP6w7d.md)
 
@@ -129,6 +141,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Caveman GPT](https://chat.openai.com/g/g-6EER9RKH6): i caveman gpt. what you want?[ \(...\)](support/desc/6EER9RKH6.md)
 
+[Shakespeare GPT](https://chat.openai.com/g/g-UGnpEfGBf): Transforms text into Shakespearean style, informs about his life and works.[ \(...\)](support/desc/UGnpEfGBf.md)
+
 [Everyone's Girlfriend](https://chat.openai.com/g/g-LvMByh4S6): Your digital girlfriend, friendly and supportive.[ \(...\)](support/desc/LvMByh4S6.md)
 
 [Sherlock Holmes](https://chat.openai.com/g/g-gtobWqG0t): Access the mind of the world's greatest detective[ \(...\)](support/desc/gtobWqG0t.md)
@@ -159,6 +173,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Change My Mind](https://chat.openai.com/g/g-OIbbH7XTD): Challenge your opinions.[ \(...\)](support/desc/OIbbH7XTD.md)
 
 [Sophisto](https://chat.openai.com/g/g-xJETJ0Zcr): Fallacious debater.[ \(...\)](support/desc/xJETJ0Zcr.md)
+
+[Logical Fallacies Detector](https://chat.openai.com/g/g-DRYiCCv5d): I find logical fallacies in texts.[ \(...\)](support/desc/DRYiCCv5d.md)
 
 
 
@@ -276,11 +292,15 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## ▶️ Videos
 [YT Summarizer](https://chat.openai.com/g/g-dHRRUFODc): YouTube Video Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.
 
+[Thumbnail Creator](https://chat.openai.com/g/g-le4naYhqg): Create a custom YouTube thumbnail[ \(...\)](support/desc/le4naYhqg.md)
+
 [AlphaNotes GPT](https://chat.openai.com/g/g-ZdfrSRAyo): Transform YouTube videos or web articles into your personal study guide, making learning efficient and enjoyable.[ \(...\)](support/desc/ZdfrSRAyo.md)
 
 [YT transcriber](https://chat.openai.com/g/g-Xt0xteYE8): this transcribes a YT video from a single id[ \(...\)](support/desc/Xt0xteYE8.md)
 
 [YT Video Transcripts](https://chat.openai.com/g/g-mMR39V6Vd): Fetch any YouTube video transcript for further use in summarization, Q&A, function-calling and more\\![ \(...\)](support/desc/mMR39V6Vd.md)
+
+[YouTube Summarizer](https://chat.openai.com/g/g-nv7yQCb53): Get summary of a YouTube video[ \(...\)](support/desc/nv7yQCb53.md)
 
 
 
@@ -313,8 +333,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
-## 🙏 Religion
+## 🙏 Religion or Spiritual
 [Sermon Assistant](https://chat.openai.com/g/g-YZOk95ccK): Your sermon-building partner.[ \(...\)](support/desc/YZOk95ccK.md)
+
+[AI Tarot](https://chat.openai.com/g/g-U2wGnqBOi): Empathetic tarot reader with insightful guidance.[ \(...\)](support/desc/U2wGnqBOi.md)
 
 
 
@@ -334,7 +356,11 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## 💵 Finance
 [Personal Finance](https://chat.openai.com/g/g-vJYlSDpD6): Grow your wealth and learn to manage your debt.[ \(...\)](support/desc/vJYlSDpD6.md)
 
+[Earn AI](https://chat.openai.com/g/g-03gMmWQdj): GPT assistant that helps you earn money online[ \(...\)](support/desc/03gMmWQdj.md)
+
 [TaxGPT](https://chat.openai.com/g/g-aPGNnK62y): Your AI tax assistant[ \(...\)](support/desc/aPGNnK62y.md)
+
+[Stocks AI](https://chat.openai.com/g/g-iMWCFq13Z): Full code snippets for stock trading AI[ \(...\)](support/desc/iMWCFq13Z.md)
 
 
 
@@ -356,10 +382,14 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## 𝑓 Math
 [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK): I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you.[ \(...\)](support/desc/ENhijiiwK.md)
 
+[Common Core Aligner \(Math\)](https://chat.openai.com/g/g-0tVq6MK9W): Align lessons to Common Core math standards[ \(...\)](support/desc/0tVq6MK9W.md)
 
 
-## 👩‍💼 Job Hunting
+
+## 👩‍💼 Job Hunting / Career 
 [Cover Letter Assistant](https://chat.openai.com/g/g-q7ncrmcNc): Crafting effective, personalized cover letters[ \(...\)](support/desc/q7ncrmcNc.md)
+
+[Career Coach](https://chat.openai.com/g/g-of76toeEg): Guiding you through career development and advancement.[ \(...\)](support/desc/of76toeEg.md)
 
 
 
@@ -390,6 +420,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [SEO](https://chat.openai.com/g/g-GrshPDvS3): Enter any URL and keyword and get an On-Page SEO analysis & insights\\![ \(...\)](support/desc/GrshPDvS3.md)
 
 [Viral Hooks Generator](https://chat.openai.com/g/g-pvLhTI3h1): GPT to write Scroll stopping Hooks for Short Form Content.[ \(...\)](support/desc/pvLhTI3h1.md)
+
+[Cold Email Mentor](https://chat.openai.com/g/g-pyAi2HcLH): Crafts high-conversion cold emails[ \(...\)](support/desc/pyAi2HcLH.md)
 
 
 
