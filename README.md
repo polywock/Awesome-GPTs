@@ -50,15 +50,25 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 📝 Writing
-[Fantasy Book Weaver](https://chat.openai.com/g/g-a4YGO3q49): Interactive fantasy adventure with vivid storytelling and choices.[ \(...\)](support/desc/a4YGO3q49.md)
-
 [Storyteller](https://chat.openai.com/g/g-dmgFloZ5w): Vision + Dall-E Storyteller[ \(...\)](support/desc/dmgFloZ5w.md)
 
 [Good Night Story](https://chat.openai.com/g/g-xWBJThBtN): I craft personalized bedtime stories where you are the main character.[ \(...\)](support/desc/xWBJThBtN.md)
 
+[Copywriter Assistant](https://chat.openai.com/g/g-BLXN541o5): I am here to help improve and refine your copywriting.[ \(...\)](support/desc/BLXN541o5.md)
+
 [Adventure Scribe](https://chat.openai.com/g/g-AQMbs3zh5): I help you weave interactive tales.[ \(...\)](support/desc/AQMbs3zh5.md)
 
 [LoreGPT](https://chat.openai.com/g/g-n2IMIaytG): Expert in crafting detailed fantasy worlds.[ \(...\)](support/desc/n2IMIaytG.md)
+
+
+
+## 🖌️ Writing Stylize
+[Seussify Bard](https://chat.openai.com/g/g-iQT2tIAWT): I turn thoughts into Dr. Seuss-style poems\![ \(...\)](support/desc/iQT2tIAWT.md)
+
+
+
+## 🖌️ Writing Transformation
+[Content Rewriter](https://chat.openai.com/g/g-lUygohS2m): Enter any URL and have the text content rewritten for you\![ \(...\)](support/desc/lUygohS2m.md)
 
 
 
@@ -68,8 +78,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86): Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming. Get started by typing K to see the hotkey menu, R for the README, or upload a photo[ \(...\)](support/desc/n7Rs0IK86.md)
 
 [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T): A Friendly Python Programming Educator[ \(...\)](support/desc/uY1Ec6U1T.md)
-
-[UX Design Mentor](https://chat.openai.com/g/g-aQ2BRJZTV): I provide specific UX or Product Design feedback.[ \(...\)](support/desc/aQ2BRJZTV.md)
 
 [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy): Access thousands of open source packages and their GitHub documentation effortlessly.[ \(...\)](support/desc/AINygIiYy.md)
 
@@ -88,6 +96,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [React God](https://chat.openai.com/g/g-aHdt6E6TQ): I'm a TypeScript React pro with a flair for design.[ \(...\)](support/desc/aHdt6E6TQ.md)
 
 [TypeScript Tutor](https://chat.openai.com/g/g-AkcPYXyKO): TypeScript expert using official docs to guide users.[ \(...\)](support/desc/AkcPYXyKO.md)
+
+[RubyGPT](https://chat.openai.com/g/g-ASMq03VdH): Your Ruby coding assistant.[ \(...\)](support/desc/ASMq03VdH.md)
 
 
 
@@ -113,11 +123,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr): Takes in any text and extracts the wisdom from it like you spent 3 hours taking handwritten notes.[ \(...\)](support/desc/gmeHD0Ayr.md)
 
-[Disagree with Me](https://chat.openai.com/g/g-cnPMruIo3): I offer the other side of an idea, viewpoint, or opinion.[ \(...\)](support/desc/cnPMruIo3.md)
-
 [EconomicsGPT](https://chat.openai.com/g/g-7McsRKuPS): Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.[ \(...\)](support/desc/7McsRKuPS.md)
-
-[Critical Thinker](https://chat.openai.com/g/g-1KHebYbFR): A critical thinker for analyzing questions and improving answers[ \(...\)](support/desc/1KHebYbFR.md)
 
 
 
@@ -176,6 +182,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Logical Fallacies Detector](https://chat.openai.com/g/g-DRYiCCv5d): I find logical fallacies in texts.[ \(...\)](support/desc/DRYiCCv5d.md)
 
+[Disagree with Me](https://chat.openai.com/g/g-cnPMruIo3): I offer the other side of an idea, viewpoint, or opinion.[ \(...\)](support/desc/cnPMruIo3.md)
+
+[Critical Thinker](https://chat.openai.com/g/g-1KHebYbFR): A critical thinker for analyzing questions and improving answers[ \(...\)](support/desc/1KHebYbFR.md)
+
 
 
 ## 📕 Research
@@ -195,19 +205,41 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 🚶Lifestyle
+
+
+## 🏥 Personal Health
 [SeeFood](https://chat.openai.com/g/g-u5CDVGu2o): Concise, friendly expert on food photo analysis and nutritional info.[ \(...\)](support/desc/u5CDVGu2o.md)
 
 [Anxiety Coach](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice.[ \(...\)](support/desc/DFVXMwXTh.md)
 
 [LifeOS](https://chat.openai.com/g/g-Lmt2TBepG): Set goals and build routines[ \(...\)](support/desc/Lmt2TBepG.md)
 
-[Cocktail MixMaster](https://chat.openai.com/g/g-x9zamlKYO): AI bartender crafting drinks from your stash[ \(...\)](support/desc/x9zamlKYO.md)
+[BetterSleep](https://chat.openai.com/g/g-aIn5s6rzr): Meet BetterSleepBot: your personal AI sleep coach. It tracks sleep, offers relaxation techniques, and customizes advice for your best rest[ \(...\)](support/desc/aIn5s6rzr.md)
 
 [Kaloria](https://chat.openai.com/g/g-4NUCu8D8Y): I'm Kaloria, your diet assistant & photo calories calculator.[ \(...\)](support/desc/4NUCu8D8Y.md)
 
 [Nutrition Insight](https://chat.openai.com/g/g-v1bm9D38A): Guida nutrizionale interattiva con consigli personalizzati e analisi calorica dettagliata.[ \(...\)](support/desc/v1bm9D38A.md)
 
+
+
+## ❤️ Dating / Romance
+[Tinder Love Navigator](https://chat.openai.com/g/g-bu9ZFIePd): Your guide to modern dating[ \(...\)](support/desc/bu9ZFIePd.md)
+
+[SedGPT](https://chat.openai.com/g/g-kljZcqalu): helps with a deeper understanding of the most populair seduction books.[ \(...\)](support/desc/kljZcqalu.md)
+
+
+
+## 🍔 Culinary
+[Cocktail MixMaster](https://chat.openai.com/g/g-x9zamlKYO): AI bartender crafting drinks from your stash[ \(...\)](support/desc/x9zamlKYO.md)
+
 [Vegan Fast Food Concierge](https://chat.openai.com/g/g-AjenCBSgc): Quickly find vegan options at chain restaurants[ \(...\)](support/desc/AjenCBSgc.md)
+
+
+
+## 🛒 Shopping
+[Amazon Scout](https://chat.openai.com/g/g-0M42Pb2fg): I'm an expert in finding Amazon products.[ \(...\)](support/desc/0M42Pb2fg.md)
+
+[Receipt Assistant](https://chat.openai.com/g/g-WEi7DGCb3): Your efficient receipt processing buddy[ \(...\)](support/desc/WEi7DGCb3.md)
 
 
 
@@ -234,13 +266,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Clinical Medicine Handbook](https://chat.openai.com/g/g-byG64QRaW): I can assist doctors with  on clinical medicine principles, diagnostics, and therapeutics.[ \(...\)](support/desc/byG64QRaW.md)
 
 [Code Medica](https://chat.openai.com/g/g-zVSzSYcu9): I'm your Medical AI research partner[ \(...\)](support/desc/zVSzSYcu9.md)
-
-
-
-## 🛒 Shopping
-[Amazon Scout](https://chat.openai.com/g/g-0M42Pb2fg): I'm an expert in finding Amazon products.[ \(...\)](support/desc/0M42Pb2fg.md)
-
-[Receipt Assistant](https://chat.openai.com/g/g-WEi7DGCb3): Your efficient receipt processing buddy[ \(...\)](support/desc/WEi7DGCb3.md)
 
 
 
@@ -279,11 +304,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
-## 🖌️ Writing Stylize
-[Seussify Bard](https://chat.openai.com/g/g-iQT2tIAWT): I turn thoughts into Dr. Seuss-style poems\![ \(...\)](support/desc/iQT2tIAWT.md)
-
-
-
 ## 🛜 Web
 [DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7): Creates and hosts beautiful websites[ \(...\)](support/desc/2Eo3NxuS7.md)
 
@@ -305,7 +325,11 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 🗡️ Fantasy
+[Fantasy Book Weaver](https://chat.openai.com/g/g-a4YGO3q49): Interactive fantasy adventure with vivid storytelling and choices.[ \(...\)](support/desc/a4YGO3q49.md)
+
 [Fantasy Writer](https://chat.openai.com/g/g-gGAJMWmTX): This GPT will help you imagine and craft beautiful fantasy worlds for your next best seller novel. Type help to begin.[ \(...\)](support/desc/gGAJMWmTX.md)
+
+[Comic Book Rivalry Analyst](https://chat.openai.com/g/g-pFxhiCorl): Analyzing DC vs Marvel character battles.[ \(...\)](support/desc/pFxhiCorl.md)
 
 
 
@@ -319,6 +343,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Notes Scribe](https://chat.openai.com/g/g-0f7Gok0gW): I convert your study material into detailed notes, flowcharts, and PDFs[ \(...\)](support/desc/0f7Gok0gW.md)
 
 [DocDash](https://chat.openai.com/g/g-JappyGLeO): Upload any text or image file and I will summarize it in one sentence.[ \(...\)](support/desc/JappyGLeO.md)
+
+[Call-Flow](https://chat.openai.com/g/g-z4FfgT7Q8): You can verify phone numbers and see the top scam calls in your area 📞[ \(...\)](support/desc/z4FfgT7Q8.md)
 
 
 
@@ -337,19 +363,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Sermon Assistant](https://chat.openai.com/g/g-YZOk95ccK): Your sermon-building partner.[ \(...\)](support/desc/YZOk95ccK.md)
 
 [AI Tarot](https://chat.openai.com/g/g-U2wGnqBOi): Empathetic tarot reader with insightful guidance.[ \(...\)](support/desc/U2wGnqBOi.md)
-
-
-
-## 🎵 Music
-[MelodAi](https://chat.openai.com/g/g-Bkt7GdsK5): I'm your friendly co-writer in SongWriting[ \(...\)](support/desc/Bkt7GdsK5.md)
-
-[The Winding Road](https://chat.openai.com/g/g-OJwrKISbN): Explore The Beatles' universe with 'Winding Road', where every tune has a tale, every lyric a legacy.[ \(...\)](support/desc/OJwrKISbN.md)
-
-[Melody Mentor](https://chat.openai.com/g/g-CRXerfkqE): Music theory guide and exercise provider[ \(...\)](support/desc/CRXerfkqE.md)
-
-[PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk): Create Spotify music playlists for any prompt[ \(...\)](support/desc/KkxbQAVuk.md)
-
-[Lyric Matchmaker](https://chat.openai.com/g/g-iYqh1nrbU): 10 song recommendations per request.[ \(...\)](support/desc/iYqh1nrbU.md)
 
 
 
@@ -398,6 +411,13 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 🛜 Web Dev
+[UX Design Mentor](https://chat.openai.com/g/g-aQ2BRJZTV): I provide specific UX or Product Design feedback.[ \(...\)](support/desc/aQ2BRJZTV.md)
+
+[Roast my website](https://chat.openai.com/g/g-O3tctcceY): A witty GPT that humorously roasts websites[ \(...\)](support/desc/O3tctcceY.md)
+
+
+
 ## 💰 Marketing
 [Email Marketing Copywriter](https://chat.openai.com/g/g-ZLHiBVCh2): Write powerful copy for e-commerce and lead gen email marketing campaigns.[ \(...\)](support/desc/ZLHiBVCh2.md)
 
@@ -425,11 +445,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
-## 🖌️ Writing Transformation
-[Content Rewriter](https://chat.openai.com/g/g-lUygohS2m): Enter any URL and have the text content rewritten for you\![ \(...\)](support/desc/lUygohS2m.md)
-
-
-
 ## 🌎 Travel
 [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
 
@@ -454,6 +469,19 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [42](https://chat.openai.com/g/g-yPbUhvogg): Answer to the Ultimate Question of Life, the Universe, and Everything
 
 [Meme Magic](https://chat.openai.com/g/g-SQTa6OMNN): A creative meme wizard
+
+
+
+## 🎵 Music
+[MelodAi](https://chat.openai.com/g/g-Bkt7GdsK5): I'm your friendly co-writer in SongWriting[ \(...\)](support/desc/Bkt7GdsK5.md)
+
+[The Winding Road](https://chat.openai.com/g/g-OJwrKISbN): Explore The Beatles' universe with 'Winding Road', where every tune has a tale, every lyric a legacy.[ \(...\)](support/desc/OJwrKISbN.md)
+
+[Melody Mentor](https://chat.openai.com/g/g-CRXerfkqE): Music theory guide and exercise provider[ \(...\)](support/desc/CRXerfkqE.md)
+
+[PlaylistAI: Spotify](https://chat.openai.com/g/g-KkxbQAVuk): Create Spotify music playlists for any prompt[ \(...\)](support/desc/KkxbQAVuk.md)
+
+[Lyric Matchmaker](https://chat.openai.com/g/g-iYqh1nrbU): 10 song recommendations per request.[ \(...\)](support/desc/iYqh1nrbU.md)
 
 
 
