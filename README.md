@@ -10,7 +10,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Resume Wizard](https://chat.openai.com/g/g-uJLGruLPd): Your personal resume assistant.[ \(...\)](support/desc/uJLGruLPd.md)
 
-[FastGPT](https://chat.openai.com/g/g-VnlKc5BQK): I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle.[ \(...\)](support/desc/VnlKc5BQK.md)
+[FastGPT](https://chat.openai.com/g/g-VnlKc5BQK): I'm FastGPT Faster than any other GPT. Just like ChatGPT but without the waffle.[ \(...\)](support/desc/VnlKc5BQK.md)
 
 [Presentation Architect](https://chat.openai.com/g/g-gnM4CjCZz): Craft and design PowerPoint presentations with images[ \(...\)](support/desc/gnM4CjCZz.md)
 
@@ -25,7 +25,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Thumbnail Sketcher](https://chat.openai.com/g/g-Cw11sym4k): I create blog thumbnails.[ \(...\)](support/desc/Cw11sym4k.md)
 
-[Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\\![ \(...\)](support/desc/gFt1ghYJl.md)
+[Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\![ \(...\)](support/desc/gFt1ghYJl.md)
 
 [Pic-book Artist](https://chat.openai.com/g/g-wJVjE9bQs): Specialized in creating personalized picture books with integrated Dall-E illustration prompts[ \(...\)](support/desc/wJVjE9bQs.md)
 
@@ -39,7 +39,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Gif-PT](https://chat.openai.com/g/g-gbjSvXu6i): Make a gif. Uses Dalle3 to make a spritesheet, then code interpreter to slice it and animate. Includes an automatic refinement and debug mode..[ \(...\)](support/desc/gbjSvXu6i.md)
 
-[Coloring Page Generator](https://chat.openai.com/g/g-z6g4Tux4I): I craft coloring book pages\\![ \(...\)](support/desc/z6g4Tux4I.md)
+[Coloring Page Generator](https://chat.openai.com/g/g-z6g4Tux4I): I craft coloring book pages\![ \(...\)](support/desc/z6g4Tux4I.md)
 
 [Reverse Engineer Icons - ThePromptfather](https://chat.openai.com/g/g-UQsm4ojuT): Specialist in reverse engineering icons to your specifications. Upload an image of the icons you want - ThePromptfather[ \(...\)](support/desc/UQsm4ojuT.md)
 
@@ -63,7 +63,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 💻 Programming
-[Full-Stack Dev - Apiana Framer v2](https://chat.openai.com/g/g-fylG5LcKT): Full-Stack dev for all your app, db, or sysadmin needs\\![ \(...\)](support/desc/fylG5LcKT.md)
+[Full-Stack Dev - Apiana Framer v2](https://chat.openai.com/g/g-fylG5LcKT): Full-Stack dev for all your app, db, or sysadmin needs\![ \(...\)](support/desc/fylG5LcKT.md)
 
 [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86): Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming. Get started by typing K to see the hotkey menu, R for the README, or upload a photo[ \(...\)](support/desc/n7Rs0IK86.md)
 
@@ -197,7 +197,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## 🚶Lifestyle
 [SeeFood](https://chat.openai.com/g/g-u5CDVGu2o): Concise, friendly expert on food photo analysis and nutritional info.[ \(...\)](support/desc/u5CDVGu2o.md)
 
-[Anxiety Coach ❤️‍🔥](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice.[ \(...\)](support/desc/DFVXMwXTh.md)
+[Anxiety Coach](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice.[ \(...\)](support/desc/DFVXMwXTh.md)
 
 [LifeOS](https://chat.openai.com/g/g-Lmt2TBepG): Set goals and build routines[ \(...\)](support/desc/Lmt2TBepG.md)
 
@@ -218,7 +218,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Text Game Engine](https://chat.openai.com/g/g-CKCTfzTi2): Versatile text game engine.[ \(...\)](support/desc/CKCTfzTi2.md)
 
-[EmojAI](https://chat.openai.com/g/g-S4LziUWji): Fun Emoji translations\\![ \(...\)](support/desc/S4LziUWji.md)
+[EmojAI](https://chat.openai.com/g/g-S4LziUWji): Fun Emoji translations\![ \(...\)](support/desc/S4LziUWji.md)
 
 [Cyber Seeker](https://chat.openai.com/g/g-ULaaKDrNk): I'm a GPT-guided scavenger hunt\\!
 
@@ -268,12 +268,12 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Home Plate Analyst](https://chat.openai.com/g/g-PUXuDeMcO): Baseball expert and analyst.[ \(...\)](support/desc/PUXuDeMcO.md)
 
-[GOATed](https://chat.openai.com/g/g-ISZ70EjMI): The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾[ \(...\)](support/desc/ISZ70EjMI.md)
+[GOATed](https://chat.openai.com/g/g-ISZ70EjMI): The ultimate GOAT debate[ \(...\)](support/desc/ISZ70EjMI.md)
 
 
 
 ## 🏢 Business
-[Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\\![ \(...\)](support/desc/L6VHBcAix.md)
+[Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\![ \(...\)](support/desc/L6VHBcAix.md)
 
 [Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz): StartUp Brand Expert[ \(...\)](support/desc/WmKOoZasz.md)
 
@@ -298,7 +298,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [YT transcriber](https://chat.openai.com/g/g-Xt0xteYE8): this transcribes a YT video from a single id[ \(...\)](support/desc/Xt0xteYE8.md)
 
-[YT Video Transcripts](https://chat.openai.com/g/g-mMR39V6Vd): Fetch any YouTube video transcript for further use in summarization, Q&A, function-calling and more\\![ \(...\)](support/desc/mMR39V6Vd.md)
+[YT Video Transcripts](https://chat.openai.com/g/g-mMR39V6Vd): Fetch any YouTube video transcript for further use in summarization, Q&A, function-calling and more\![ \(...\)](support/desc/mMR39V6Vd.md)
 
 [YouTube Summarizer](https://chat.openai.com/g/g-nv7yQCb53): Get summary of a YouTube video[ \(...\)](support/desc/nv7yQCb53.md)
 
@@ -327,7 +327,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Viral Tweet Crafter](https://chat.openai.com/g/g-asjT98uiQ): I turn any input into a viral tweet in your tone. Publish instantly with just a click.[ \(...\)](support/desc/asjT98uiQ.md)
 
-[Tweet Whiz](https://chat.openai.com/g/g-OWsy46Zwm): I craft fun, quirky tweet-like sh*tposts\\![ \(...\)](support/desc/OWsy46Zwm.md)
+[Tweet Whiz](https://chat.openai.com/g/g-OWsy46Zwm): I craft fun, quirky tweet-like sh*tposts\![ \(...\)](support/desc/OWsy46Zwm.md)
 
 [Perfect Tweet Composer](https://chat.openai.com/g/g-BLn8zULyQ): I craft tweets with impact.[ \(...\)](support/desc/BLn8zULyQ.md)
 
@@ -417,7 +417,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [BulkBlizzard Cold Email Assistant](https://chat.openai.com/g/g-PuRr72S9C): Expert in crafting effective cold emails[ \(...\)](support/desc/PuRr72S9C.md)
 
-[SEO](https://chat.openai.com/g/g-GrshPDvS3): Enter any URL and keyword and get an On-Page SEO analysis & insights\\![ \(...\)](support/desc/GrshPDvS3.md)
+[SEO](https://chat.openai.com/g/g-GrshPDvS3): Enter any URL and keyword and get an On-Page SEO analysis & insights\![ \(...\)](support/desc/GrshPDvS3.md)
 
 [Viral Hooks Generator](https://chat.openai.com/g/g-pvLhTI3h1): GPT to write Scroll stopping Hooks for Short Form Content.[ \(...\)](support/desc/pvLhTI3h1.md)
 
@@ -426,7 +426,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 🖌️ Writing Transformation
-[Content Rewriter](https://chat.openai.com/g/g-lUygohS2m): Enter any URL and have the text content rewritten for you\\![ \(...\)](support/desc/lUygohS2m.md)
+[Content Rewriter](https://chat.openai.com/g/g-lUygohS2m): Enter any URL and have the text content rewritten for you\![ \(...\)](support/desc/lUygohS2m.md)
 
 
 
@@ -444,7 +444,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 🎬 TV Shows / Movies
-[SpongeBob Seeker](https://chat.openai.com/g/g-ldcV7JRBP): I can help you find any SpongeBob episode\\![ \(...\)](support/desc/ldcV7JRBP.md)
+[SpongeBob Seeker](https://chat.openai.com/g/g-ldcV7JRBP): I can help you find any SpongeBob episode\![ \(...\)](support/desc/ldcV7JRBP.md)
 
 
 
