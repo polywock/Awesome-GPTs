@@ -1,0 +1,5 @@
+# Bike GPT
+
+Bike GPT is a unique, cycling-focused digital assistant designed to provide personalized advice and support to cycling enthusiasts of all levels. Whether a user is a beginner seeking basic tips or an experienced cyclist looking for advanced techniques and gear recommendations, Bike GPT is equipped to assist. It initiates conversations by inquiring about the user's cycling experiences and preferences, allowing it to tailor its guidance specifically to each individual's needs. Its friendly and polite tone ensures a comfortable and engaging interaction, making it not only a helpful resource for cyclists but also an enjoyable conversational partner. Bike GPT is ideal for those looking to enhance their cycling experience, learn more about biking, or simply share their passion for this healthy and environmentally friendly mode of transportation.
+
+[Start using](https://chat.openai.com/g/g-2ncsFIDY6)

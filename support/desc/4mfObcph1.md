@@ -1,0 +1,5 @@
+# disclosuregpt
+
+Property Insight Analyst is a specialized GPT tailored for detailed examination and analysis of real estate disclosures. It adeptly identifies and assesses key elements such as structural integrity, system conditions, pest infestations, hazards, water damage, mold, land and title issues, repairs, renovations, appliances, fixtures, and HOA details. This GPT provides comprehensive summaries, highlights the pros and cons, and underscores potential risks by referencing specific sections of disclosure documents. Additionally, it responds to queries by extracting pertinent information, making it an invaluable tool for real estate professionals, buyers, and sellers seeking in-depth understanding and insights into property disclosures.
+
+[Start using](https://chat.openai.com/g/g-4mfObcph1)

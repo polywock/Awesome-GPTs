@@ -490,4 +490,19 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 🦄 Niche Specialists
+[disclosuregpt](https://chat.openai.com/g/g-4mfObcph1): Expert in real estate disclosures analysis.[ \(...\)](support/desc/4mfObcph1.md)
+
+
+
+## 🚗 Cars / Bikes / Vehicles
+[Bike GPT](https://chat.openai.com/g/g-2ncsFIDY6): I'm here to assist you with bike repairs, guide you in upgrading your components, and offer tailored cycling tips[ \(...\)](support/desc/2ncsFIDY6.md)
+
+
+
+## 🪖 Military
+[Following Through GPT](https://chat.openai.com/g/g-r5Jaw1MFS): Specialized in crafting precise Air Force performance evaluations using the ALQ Writing Guide.[ \(...\)](support/desc/r5Jaw1MFS.md)
+
+
+
 
