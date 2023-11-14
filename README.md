@@ -18,7 +18,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [shownotes](https://chat.openai.com/g/g-gNH4K4Egg): Transcribe and summarize[ \(...\)](support/desc/gNH4K4Egg.md)
 
-
+[OCR](https://chat.openai.com/g/g-wETMBcESv-ocr): Extract text and content from images or PDF documents[ \(...\)](support/desc/JzYGKsaBW.md)
 
 ## 🖼️ Dall-E
 [Interactive Comic Creation with Jack](https://chat.openai.com/g/g-ASy25fXeS): Jack will help you write comic books, drawing panels, and scoping stories.
