@@ -18,7 +18,9 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [shownotes](https://chat.openai.com/g/g-gNH4K4Egg): Transcribe and summarize[ \(...\)](support/desc/gNH4K4Egg.md)
 
-[OCR](https://chat.openai.com/g/g-wETMBcESv-ocr): Extract text and content from images or PDF documents[ \(...\)](support/desc/JzYGKsaBW.md)
+[OCR](https://chat.openai.com/g/g-wETMBcESv): Extract text and content from images or PDF documents[ \(...\)](support/desc/wETMBcESv.md)
+
+
 
 ## 🖼️ Dall-E
 [Interactive Comic Creation with Jack](https://chat.openai.com/g/g-ASy25fXeS): Jack will help you write comic books, drawing panels, and scoping stories.
@@ -98,6 +100,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [TypeScript Tutor](https://chat.openai.com/g/g-AkcPYXyKO): TypeScript expert using official docs to guide users.[ \(...\)](support/desc/AkcPYXyKO.md)
 
 [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH): Your Ruby coding assistant.[ \(...\)](support/desc/ASMq03VdH.md)
+
+[Regex Assistant by Whitebox](https://chat.openai.com/g/g-kftiI07yn): A specialist in regex commands. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT[ \(...\)](support/desc/kftiI07yn.md)
+
+[Firebase GPT by Whitebox](https://chat.openai.com/g/g-1PHZ3Y82z): Firebase made easy. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT[ \(...\)](support/desc/1PHZ3Y82z.md)
 
 
 
