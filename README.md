@@ -105,6 +105,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Firebase GPT by Whitebox](https://chat.openai.com/g/g-1PHZ3Y82z): Firebase made easy. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT[ \(...\)](support/desc/1PHZ3Y82z.md)
 
+[Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS): Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest version of Vue.js[ \(...\)](support/desc/LXEGvZLUS.md)
+
+[Typescript Bro](https://chat.openai.com/g/g-ruza2KBv4): Typescript bro with the latest Typescript updates.[ \(...\)](support/desc/ruza2KBv4.md)
+
 
 
 ## 📈 Data Analysis
