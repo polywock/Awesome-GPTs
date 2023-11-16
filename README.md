@@ -557,4 +557,9 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
+## 🍼 Parenting / Babies
+[Parental Wisdom](https://chat.openai.com/g/g-1hwxvXKWi): Compassionate, parental-style advice for life's questions.[ \(...\)](support/desc/1hwxvXKWi.md)
+
+
+
 
