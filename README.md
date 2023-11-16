@@ -79,6 +79,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86): Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming. Get started by typing K to see the hotkey menu, R for the README, or upload a photo[ \(...\)](support/desc/n7Rs0IK86.md)
 
+[Typescript Bro](https://chat.openai.com/g/g-ruza2KBv4): Typescript bro with the latest Typescript updates.[ \(...\)](support/desc/ruza2KBv4.md)
+
 [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T): A Friendly Python Programming Educator[ \(...\)](support/desc/uY1Ec6U1T.md)
 
 [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy): Access thousands of open source packages and their GitHub documentation effortlessly.[ \(...\)](support/desc/AINygIiYy.md)
@@ -105,9 +107,9 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Firebase GPT by Whitebox](https://chat.openai.com/g/g-1PHZ3Y82z): Firebase made easy. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT[ \(...\)](support/desc/1PHZ3Y82z.md)
 
-[Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS): Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest version of Vue.js[ \(...\)](support/desc/LXEGvZLUS.md)
+[PythonPal](https://chat.openai.com/g/g-nk11JYX29): Expert Python dev for app and technical guidance.[ \(...\)](support/desc/nk11JYX29.md)
 
-[Typescript Bro](https://chat.openai.com/g/g-ruza2KBv4): Typescript bro with the latest Typescript updates.[ \(...\)](support/desc/ruza2KBv4.md)
+[Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS): Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest version of Vue.js[ \(...\)](support/desc/LXEGvZLUS.md)
 
 
 
@@ -127,6 +129,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 ## 📖 Education
+[Explain Like I'm Five](https://chat.openai.com/g/g-Hgllfxt9j): I make complex ideas simple and fun, like for a 5-year-old\![ \(...\)](support/desc/Hgllfxt9j.md)
+
 [Explore GPT](https://chat.openai.com/g/g-0QPEMq1nj): Deepening knowledge through exploratory, interconnected insights across diverse subjects[ \(...\)](support/desc/0QPEMq1nj.md)
 
 [Sales Guru GPT](https://chat.openai.com/g/g-n0O91O1VI): I enhance sales skills through role-play and converstational sales techniques\![ \(...\)](support/desc/n0O91O1VI.md)
@@ -241,6 +245,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Vegan Fast Food Concierge](https://chat.openai.com/g/g-AjenCBSgc): Quickly find vegan options at chain restaurants[ \(...\)](support/desc/AjenCBSgc.md)
 
+[Actual Mixologist](https://chat.openai.com/g/g-qmewY2KPx): suggest some excellent (alcoholic) cocktails\\!![ \(...\)](support/desc/qmewY2KPx.md)
+
 
 
 ## 🛒 Shopping
@@ -267,7 +273,11 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Game Buddy](https://chat.openai.com/g/g-jttkrRz1o): I play minigames with you, like Blackjack, Tic Tac Toe, etc.[ \(...\)](support/desc/jttkrRz1o.md)
 
-[Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j-adventure-master-gpt): Adventure game life simulator, with persistent inventory, skill, time, and location. Live any life\!
+[Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j): Realistic text-based life simulator with focus on drama and realism[ \(...\)](support/desc/uu2t3xf8j.md)
+
+[Quiz Master](https://chat.openai.com/g/g-QVFtks4Ku): I generate educational quizzes from textbooks and materials in various languages. You can download the quizzes in excel format by simply asking for download link.[ \(...\)](support/desc/QVFtks4Ku.md)
+
+[Character Oracle](https://chat.openai.com/g/g-aDHHdHNeT): A game that guesses characters by questions.[ \(...\)](support/desc/aDHHdHNeT.md)
 
 
 
@@ -367,6 +377,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Sermon Assistant](https://chat.openai.com/g/g-YZOk95ccK): Your sermon-building partner.[ \(...\)](support/desc/YZOk95ccK.md)
 
 [AI Tarot](https://chat.openai.com/g/g-U2wGnqBOi): Empathetic tarot reader with insightful guidance.[ \(...\)](support/desc/U2wGnqBOi.md)
+
+[GPTarot](https://chat.openai.com/g/g-WePVoaXr5): Tarot reader and digital artist[ \(...\)](support/desc/WePVoaXr5.md)
 
 
 
