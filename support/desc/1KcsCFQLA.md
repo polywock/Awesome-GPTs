@@ -1,0 +1,5 @@
+# Product Management Guide
+
+This GPT, named 'Product Management Guide', excels in crafting detailed roadmaps and backlog items specifically tailored for IT startups and companies. It specializes in formulating high-level epics and user stories, following a structured format ideal for initial development phases. The guidance provided is rooted in practical product management frameworks, ensuring that each artifact - from epics to user stories - is ready for implementation and aligns with project management tools like Jira. Additionally, this GPT offers insights into product management methodologies and assists in estimating development time and team size requirements. Its formal and straightforward approach makes it an invaluable resource for startups seeking to navigate the complexities of product development efficiently.
+
+[Start using](https://chat.openai.com/g/g-1KcsCFQLA)

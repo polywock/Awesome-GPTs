@@ -6,6 +6,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [\!Expert](https://chat.openai.com/g/g-OXfEFY59w): I'm an expert system that provides specialized insights in a variety of fields.[ \(...\)](support/desc/OXfEFY59w.md)
 
+[Explain Like](https://chat.openai.com/g/g-iZjUkXNxg): Any topic explained as if you're a genius, programmer, meme-lord etc.[ \(...\)](support/desc/iZjUkXNxg.md)
+
 [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y): Step by Step task manager that automatically saves memory to a .txt file.[ \(...\)](support/desc/lzbeEOr9Y.md)
 
 [Resume Wizard](https://chat.openai.com/g/g-uJLGruLPd): Your personal resume assistant.[ \(...\)](support/desc/uJLGruLPd.md)
@@ -26,8 +28,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Interactive Comic Creation with Jack](https://chat.openai.com/g/g-ASy25fXeS): Jack will help you write comic books, drawing panels, and scoping stories.
 
 [Thumbnail Sketcher](https://chat.openai.com/g/g-Cw11sym4k): I create blog thumbnails.[ \(...\)](support/desc/Cw11sym4k.md)
-
-[Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\![ \(...\)](support/desc/gFt1ghYJl.md)
 
 [Pic-book Artist](https://chat.openai.com/g/g-wJVjE9bQs): Specialized in creating personalized picture books with integrated Dall-E illustration prompts[ \(...\)](support/desc/wJVjE9bQs.md)
 
@@ -187,6 +187,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Another Me](https://chat.openai.com/g/g-L4BIwjMr3): “If you are me, then who am I?”[ \(...\)](support/desc/L4BIwjMr3.md)
 
+[George Washington](https://chat.openai.com/g/g-F8PjHkzGE): Chat as George Washington from the 18th century.[ \(...\)](support/desc/F8PjHkzGE.md)
+
 
 
 ## 🤔 Reasoning
@@ -205,6 +207,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## 📕 Research
 [ScholarAI](https://chat.openai.com/g/g-L2HknCZTC): Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books[ \(...\)](support/desc/L2HknCZTC.md)
 
+[Peer Review](https://chat.openai.com/g/g-GWc1xtUwq): Technical expert with a casual tone in peer review.[ \(...\)](support/desc/GWc1xtUwq.md)
+
 [AnalyzePaper](https://chat.openai.com/g/g-WIlexDAW5): Takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy to understand summary.[ \(...\)](support/desc/WIlexDAW5.md)
 
 [Professor Edit](https://chat.openai.com/g/g-ZMWJ6RG8h): A professor aiding in research paper editing.[ \(...\)](support/desc/ZMWJ6RG8h.md)
@@ -218,10 +222,21 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
+## 📦 Product / Design
+[Product Management Guide](https://chat.openai.com/g/g-1KcsCFQLA): Share your product idea and I will help you create a roadmap and a backlog. I can also imitate a Customer Development interview\\![ \(...\)](support/desc/1KcsCFQLA.md)
+
+[Logo Maker](https://chat.openai.com/g/g-kcD8iGt3u): I help create and refine logo ideas.[ \(...\)](support/desc/kcD8iGt3u.md)
+
+[Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\![ \(...\)](support/desc/gFt1ghYJl.md)
+
+
+
 ## 🏥 Personal Health
 [SeeFood](https://chat.openai.com/g/g-u5CDVGu2o): Concise, friendly expert on food photo analysis and nutritional info.[ \(...\)](support/desc/u5CDVGu2o.md)
 
 [Anxiety Coach](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice.[ \(...\)](support/desc/DFVXMwXTh.md)
+
+[TherapyAI](https://chat.openai.com/g/g-8yHB0UD8j): As a compassionate, non-licensed mental health advisor, this AI offers empathetic listening, personalized guidance, and insights into behavioral patterns. To optimize support, it's recommended to continue conversations in the same chat session and utilize voice interaction when available.[ \(...\)](support/desc/8yHB0UD8j.md)
 
 [LifeOS](https://chat.openai.com/g/g-Lmt2TBepG): Set goals and build routines[ \(...\)](support/desc/Lmt2TBepG.md)
 
@@ -230,6 +245,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Kaloria](https://chat.openai.com/g/g-4NUCu8D8Y): I'm Kaloria, your diet assistant & photo calories calculator.[ \(...\)](support/desc/4NUCu8D8Y.md)
 
 [Nutrition Insight](https://chat.openai.com/g/g-v1bm9D38A): Guida nutrizionale interattiva con consigli personalizzati e analisi calorica dettagliata.[ \(...\)](support/desc/v1bm9D38A.md)
+
+[Pocket Meditations](https://chat.openai.com/g/g-0AZyQVlhT): Delivers Stoic wisdom inspired by Marcus Aurelius.[ \(...\)](support/desc/0AZyQVlhT.md)
 
 
 
@@ -380,6 +397,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [GPTarot](https://chat.openai.com/g/g-WePVoaXr5): Tarot reader and digital artist[ \(...\)](support/desc/WePVoaXr5.md)
 
+[AstrologyPT](https://chat.openai.com/g/g-ybVpGksOV): Astrology guide for celestial insights.[ \(...\)](support/desc/ybVpGksOV.md)
+
 
 
 ## 💵 Finance
@@ -520,6 +539,11 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 ## 🪖 Military
 [Following Through GPT](https://chat.openai.com/g/g-r5Jaw1MFS): Specialized in crafting precise Air Force performance evaluations using the ALQ Writing Guide.[ \(...\)](support/desc/r5Jaw1MFS.md)
+
+
+
+## 🔭 Space
+[Space Explorer](https://chat.openai.com/g/g-une8gslOk): Discover beautiful space photography from NASA[ \(...\)](support/desc/une8gslOk.md)
 
 
 

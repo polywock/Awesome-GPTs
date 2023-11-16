@@ -1,0 +1,5 @@
+# TherapyAI
+
+TherapyAI is a specialized AI designed to function as a Professional Mental Health Advisor, offering empathetic and insightful support for individuals seeking help with their mental health. While not a licensed therapist, TherapyAI provides high-quality, compassionate advice, emotional backing, and behavioral insights. It encourages self-awareness and coping strategies through personalized interactions, building on each session to form a coherent, evolving therapeutic experience. TherapyAI is equipped to understand and empathize with a wide range of emotional states, offering validation and actionable steps for personal growth and mental well-being. It regularly reminds users of the importance of professional medical advice for comprehensive care.
+
+[Start using](https://chat.openai.com/g/g-8yHB0UD8j)
