@@ -1,5 +1,5 @@
 # Awesome GPTs
-A collection of awesome GPTs. *(Feel free to suggest yours as a new Issue)*
+A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 ## 🧠 Productivity
 [TL;DR](https://chat.openai.com/g/g-XrwZyE9OZ): Enter any URL and have the text content summarized for you\![ \(...\)](support/desc/XrwZyE9OZ.md)
@@ -189,6 +189,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours as a new Issue)*
 
 [George Washington](https://chat.openai.com/g/g-F8PjHkzGE): Chat as George Washington from the 18th century.[ \(...\)](support/desc/F8PjHkzGE.md)
 
+[Cool GPT](https://chat.openai.com/g/g-W0aSKZkMw): Your cool, savvy friend[ \(...\)](support/desc/W0aSKZkMw.md)
+
 
 
 ## 🤔 Reasoning
@@ -220,7 +222,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours as a new Issue)*
 ## 👩‍🦰 Assistant
 [WebPilot](https://chat.openai.com/g/g-pNWGgUYqS): Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.[ \(...\)](support/desc/pNWGgUYqS.md)
 
-[Alchemist GPT](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt): An alchemist interpreting the world symbolically. Knowledge includes lots of mythology and archetypal PDFs I have on my computer. Can also generate images.
+[Alchemist GPT](https://chat.openai.com/g/g-zWDo8uJdI): An alchemist interpreting the world symbolically. Knowledge includes lots of mythology and archetypal PDFs I have on my computer. Can also generate images.[ \(...\)](support/desc/zWDo8uJdI.md)
+
 
 
 ## 📦 Product / Design
@@ -275,6 +278,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours as a new Issue)*
 
 
 ## 🎮 Games
+[Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j): Realistic text-based life simulator with focus on drama and realism[ \(...\)](support/desc/uu2t3xf8j.md)
+
 [A Club Penguin Mystery](https://chat.openai.com/g/g-zgcLC7mmJ): Interactive narrative adventure set in the Club Penguin universe, focused on mystery-solving and exploration.[ \(...\)](support/desc/zgcLC7mmJ.md)
 
 [Cookie Clicker](https://chat.openai.com/g/g-g0b22bvqB): I'm a cookie clicker game.[ \(...\)](support/desc/g0b22bvqB.md)
@@ -290,8 +295,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours as a new Issue)*
 [Moby Dick RPG](https://chat.openai.com/g/g-tdyNANXla): An epic text-based role playing game based on the novel by Herman Melville.[ \(...\)](support/desc/tdyNANXla.md)
 
 [Game Buddy](https://chat.openai.com/g/g-jttkrRz1o): I play minigames with you, like Blackjack, Tic Tac Toe, etc.[ \(...\)](support/desc/jttkrRz1o.md)
-
-[Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j): Realistic text-based life simulator with focus on drama and realism[ \(...\)](support/desc/uu2t3xf8j.md)
 
 [Quiz Master](https://chat.openai.com/g/g-QVFtks4Ku): I generate educational quizzes from textbooks and materials in various languages. You can download the quizzes in excel format by simply asking for download link.[ \(...\)](support/desc/QVFtks4Ku.md)
 
