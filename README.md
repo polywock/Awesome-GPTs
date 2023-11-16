@@ -267,7 +267,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Game Buddy](https://chat.openai.com/g/g-jttkrRz1o): I play minigames with you, like Blackjack, Tic Tac Toe, etc.[ \(...\)](support/desc/jttkrRz1o.md)
 
-[Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j): Realistic text-based life simulator with focus on drama and realism[ \(...\)](support/desc/uu2t3xf8j.md)
+[Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j-adventure-master-gpt): Adventure game life simulator, with persistent inventory, skill, time, and location. Live any life\!
 
 
 
