@@ -214,9 +214,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 
 
-## 🚶Lifestyle
-
-
 ## 🏥 Personal Health
 [SeeFood](https://chat.openai.com/g/g-u5CDVGu2o): Concise, friendly expert on food photo analysis and nutritional info.[ \(...\)](support/desc/u5CDVGu2o.md)
 
@@ -270,6 +267,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 
 [Game Buddy](https://chat.openai.com/g/g-jttkrRz1o): I play minigames with you, like Blackjack, Tic Tac Toe, etc.[ \(...\)](support/desc/jttkrRz1o.md)
 
+[Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j): Realistic text-based life simulator with focus on drama and realism[ \(...\)](support/desc/uu2t3xf8j.md)
+
 
 
 ## 🚑 Medical
@@ -311,11 +310,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\![ \(...\)](support/desc/L6VHBcAix.md)
 
 [Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz): StartUp Brand Expert[ \(...\)](support/desc/WmKOoZasz.md)
-
-
-
-## 🛜 Web
-[DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7): Creates and hosts beautiful websites[ \(...\)](support/desc/2Eo3NxuS7.md)
 
 
 
@@ -425,6 +419,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 [UX Design Mentor](https://chat.openai.com/g/g-aQ2BRJZTV): I provide specific UX or Product Design feedback.[ \(...\)](support/desc/aQ2BRJZTV.md)
 
 [Roast my website](https://chat.openai.com/g/g-O3tctcceY): A witty GPT that humorously roasts websites[ \(...\)](support/desc/O3tctcceY.md)
+
+[DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7): Creates and hosts beautiful websites[ \(...\)](support/desc/2Eo3NxuS7.md)
 
 
 
