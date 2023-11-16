@@ -220,6 +220,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours)*
 ## 👩‍🦰 Assistant
 [WebPilot](https://chat.openai.com/g/g-pNWGgUYqS): Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.[ \(...\)](support/desc/pNWGgUYqS.md)
 
+[Alchemist GPT](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt): An alchemist interpreting the world symbolically. Knowledge includes lots of mythology and archetypal PDFs I have on my computer. Can also generate images.
 
 
 ## 📦 Product / Design
