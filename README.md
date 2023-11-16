@@ -268,6 +268,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 [Actual Mixologist](https://chat.openai.com/g/g-qmewY2KPx): suggest some excellent (alcoholic) cocktails\\!![ \(...\)](support/desc/qmewY2KPx.md)
 
+[Vinobot](https://chat.openai.com/g/g-EoBW5i2gu): Digital sommelier for specific wine bottle recommendations.[ \(...\)](support/desc/EoBW5i2gu.md)
+
 
 
 ## 🛒 Shopping
@@ -299,6 +301,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 [Quiz Master](https://chat.openai.com/g/g-QVFtks4Ku): I generate educational quizzes from textbooks and materials in various languages. You can download the quizzes in excel format by simply asking for download link.[ \(...\)](support/desc/QVFtks4Ku.md)
 
 [Character Oracle](https://chat.openai.com/g/g-aDHHdHNeT): A game that guesses characters by questions.[ \(...\)](support/desc/aDHHdHNeT.md)
+
+[Game Genius](https://chat.openai.com/g/g-12q0jqkhd): Your go-to expert for gameplay walkthroughs and cheat codes.[ \(...\)](support/desc/12q0jqkhd.md)
 
 
 
@@ -538,6 +542,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 ## 🚗 Cars / Bikes / Vehicles
 [Bike GPT](https://chat.openai.com/g/g-2ncsFIDY6): I'm here to assist you with bike repairs, guide you in upgrading your components, and offer tailored cycling tips[ \(...\)](support/desc/2ncsFIDY6.md)
+
+[Mechanic Mate](https://chat.openai.com/g/g-rUgFfFwbm): Your virtual mechanic for diagnosing car noises, getting ready for service visits, and beyond.[ \(...\)](support/desc/rUgFfFwbm.md)
 
 
 
