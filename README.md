@@ -259,6 +259,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 [SedGPT](https://chat.openai.com/g/g-kljZcqalu): helps with a deeper understanding of the most populair seduction books.[ \(...\)](support/desc/kljZcqalu.md)
 
+[Rizzed.app](https://chat.openai.com/g/g-r7QurY1zI): Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more\\![ \(...\)](support/desc/r7QurY1zI.md)
+
 
 
 ## 🍔 Culinary
