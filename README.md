@@ -1,5 +1,5 @@
 # Awesome GPTs
-A collection of awesome GPTs. *(Feel free to suggest yours)*
+A collection of awesome GPTs. *(Feel free to suggest yours as a new Issue)*
 
 ## 🧠 Productivity
 [TL;DR](https://chat.openai.com/g/g-XrwZyE9OZ): Enter any URL and have the text content summarized for you\![ \(...\)](support/desc/XrwZyE9OZ.md)
