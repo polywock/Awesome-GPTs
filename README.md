@@ -49,6 +49,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 [Salvador](https://chat.openai.com/g/g-6iEq5asfX): Vision + Dall-E[ \(...\)](support/desc/6iEq5asfX.md)
 
+[Portrait Cartoonator](https://chat.openai.com/g/g-BVAcMP7wX): Turns your photos into cartoon-style portraits. Just upload a photo, and the app automatically starts.[ \(...\)](support/desc/BVAcMP7wX.md)
+
 
 
 ## 📝 Writing
@@ -112,6 +114,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS): Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest version of Vue.js[ \(...\)](support/desc/LXEGvZLUS.md)
 
 
+[Show more...](support/more/coding.md)
 
 ## 📈 Data Analysis
 [KnowledgeGrapher](https://chat.openai.com/g/g-wc9TgGWjr): Finds and extracts information and constructs knowledge graphs from it.[ \(...\)](support/desc/wc9TgGWjr.md)
@@ -235,8 +238,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
-## 🏥 Personal Health
-[SeeFood](https://chat.openai.com/g/g-u5CDVGu2o): Concise, friendly expert on food photo analysis and nutritional info.[ \(...\)](support/desc/u5CDVGu2o.md)
+## 🧘‍♀️ Mental Wellness
+[Tea with Uncle Iroh](https://chat.openai.com/g/g-VZEiXDJ9u): Talk and relax with Uncle Iroh over Jasmine tea.[ \(...\)](support/desc/VZEiXDJ9u.md)
 
 [Anxiety Coach](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice.[ \(...\)](support/desc/DFVXMwXTh.md)
 
@@ -246,11 +249,16 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 [BetterSleep](https://chat.openai.com/g/g-aIn5s6rzr): Meet BetterSleepBot: your personal AI sleep coach. It tracks sleep, offers relaxation techniques, and customizes advice for your best rest[ \(...\)](support/desc/aIn5s6rzr.md)
 
+[Pocket Meditations](https://chat.openai.com/g/g-0AZyQVlhT): Delivers Stoic wisdom inspired by Marcus Aurelius.[ \(...\)](support/desc/0AZyQVlhT.md)
+
+
+
+## 🥗 Nutrition
+[SeeFood](https://chat.openai.com/g/g-u5CDVGu2o): Concise, friendly expert on food photo analysis and nutritional info.[ \(...\)](support/desc/u5CDVGu2o.md)
+
 [Kaloria](https://chat.openai.com/g/g-4NUCu8D8Y): I'm Kaloria, your diet assistant & photo calories calculator.[ \(...\)](support/desc/4NUCu8D8Y.md)
 
 [Nutrition Insight](https://chat.openai.com/g/g-v1bm9D38A): Guida nutrizionale interattiva con consigli personalizzati e analisi calorica dettagliata.[ \(...\)](support/desc/v1bm9D38A.md)
-
-[Pocket Meditations](https://chat.openai.com/g/g-0AZyQVlhT): Delivers Stoic wisdom inspired by Marcus Aurelius.[ \(...\)](support/desc/0AZyQVlhT.md)
 
 
 
@@ -307,6 +315,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 [Game Genius](https://chat.openai.com/g/g-12q0jqkhd): Your go-to expert for gameplay walkthroughs and cheat codes.[ \(...\)](support/desc/12q0jqkhd.md)
 
 
+[Show more...](support/more/games.md)
 
 ## 🚑 Medical
 [Clinical Medicine Handbook](https://chat.openai.com/g/g-byG64QRaW): I can assist doctors with  on clinical medicine principles, diagnostics, and therapeutics.[ \(...\)](support/desc/byG64QRaW.md)
@@ -553,14 +562,21 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 [Following Through GPT](https://chat.openai.com/g/g-r5Jaw1MFS): Specialized in crafting precise Air Force performance evaluations using the ALQ Writing Guide.[ \(...\)](support/desc/r5Jaw1MFS.md)
 
 
+[Show more...](support/more/military.md)
 
 ## 🔭 Space
 [Space Explorer](https://chat.openai.com/g/g-une8gslOk): Discover beautiful space photography from NASA[ \(...\)](support/desc/une8gslOk.md)
 
 
+[Show more...](support/more/space.md)
 
 ## 🍼 Parenting / Babies
 [Parental Wisdom](https://chat.openai.com/g/g-1hwxvXKWi): Compassionate, parental-style advice for life's questions.[ \(...\)](support/desc/1hwxvXKWi.md)
+
+
+
+## 🐶 Pets
+[Pawtrait Creator](https://chat.openai.com/g/g-WYlcscE2T): Creates cartoon pet portraits. Upload a photo of your pet, type its name, submit it, and watch the magic happen.[ \(...\)](support/desc/WYlcscE2T.md)
 
 
 
