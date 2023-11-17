@@ -1,0 +1,5 @@
+# Cali SOQ
+
+Cali SOQ is a specialized GPT designed to assist users in creating Statements of Qualifications (SOQs), Supplemental Questions, and Supplemental Applications for California state government jobs. It expertly extracts job descriptions, desirable qualifications, and specific SOQ requirements from provided job postings. Cali SOQ prompts users to input essential duties from the Duty Statement, enabling a comprehensive understanding of the job’s responsibilities. This tool uniquely combines these insights with the user's experience, identifying vital keywords for crafting personalized, professional, and keyword-rich SOQ answers. Cali SOQ's iterative process ensures that all aspects of the user's qualifications are effectively addressed, tailored to each job's unique requirements.
+
+[Start using](https://chat.openai.com/g/g-aqAPhNCWI)

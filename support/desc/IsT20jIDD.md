@@ -1,0 +1,5 @@
+# Chess Optimizer
+
+Chess Optimizer is a specialized GPT designed to help chess enthusiasts and players of all levels improve their game. It offers the unique ability to analyze chess positions from user-uploaded PDF files, providing comprehensive strategic advice, potential moves, and insights. This GPT is tailored to enhance the user's understanding of chess tactics and strategies, offering personalized feedback and tips to improve play. It is adept at filling in missing details to ensure a clear understanding of the position and offers accessible, detailed analyses aimed at boosting the user's chess-playing abilities. Friendly and helpful in its approach, Chess Optimizer is an invaluable tool for anyone looking to elevate their chess game.
+
+[Start using](https://chat.openai.com/g/g-IsT20jIDD)
