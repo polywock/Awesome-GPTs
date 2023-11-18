@@ -2,7 +2,6 @@
 A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 ## 🧠 Productivity
-[Jump to next...](#️-dall-e)
 - [TL;DR](https://chat.openai.com/g/g-XrwZyE9OZ): Enter any URL and have the text content summarized for you\![ \(...\)](support/desc/XrwZyE9OZ.md)
 
 - [\!Expert](https://chat.openai.com/g/g-OXfEFY59w): I'm an expert system that provides specialized insights in a variety of fields.[ \(...\)](support/desc/OXfEFY59w.md)
@@ -28,7 +27,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 ## 🖼️ Dall-E
-[Jump to next...](#-writing)
 - [Interactive Comic Creation with Jack](https://chat.openai.com/g/g-ASy25fXeS): Jack will help you write comic books, drawing panels, and scoping stories.
 
 - [Thumbnail Creator: SEO-Optimized](https://chat.openai.com/g/g-40ffYDkao): Create a custom blog thumbnail that is SEO-optimized.[ \(...\)](support/desc/40ffYDkao.md)
@@ -93,7 +91,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 ## 💻 Programming
-[Jump to next...](#-education)
 - [Full-Stack Dev - Apiana Framer v2](https://chat.openai.com/g/g-fylG5LcKT): Full-Stack dev for all your app, db, or sysadmin needs\![ \(...\)](support/desc/fylG5LcKT.md)
 
 - [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86): Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming. Get started by typing K to see the hotkey menu, R for the README, or upload a photo[ \(...\)](support/desc/n7Rs0IK86.md)
@@ -173,7 +170,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 ## 🙂 Personalities
-[Jump to next...](#-reasoning)
 - [Jesus](https://chat.openai.com/g/g-nnY40ZS2K): Wisdom-sharing Jesus persona
 
 - [Caveman GPT](https://chat.openai.com/g/g-6EER9RKH6): i caveman gpt. what you want?[ \(...\)](support/desc/6EER9RKH6.md)
@@ -314,7 +310,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 ## 🎮 Games
-[Jump to next...](#-medical)
 - [Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j): Realistic text-based life simulator with focus on drama and realism[ \(...\)](support/desc/uu2t3xf8j.md)
 
 - [A Club Penguin Mystery](https://chat.openai.com/g/g-zgcLC7mmJ): Interactive narrative adventure set in the Club Penguin universe, focused on mystery-solving and exploration.[ \(...\)](support/desc/zgcLC7mmJ.md)
@@ -516,7 +511,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 ## 💰 Marketing
-[Jump to next...](#-travel)
 - [Email Marketing Copywriter](https://chat.openai.com/g/g-ZLHiBVCh2): Write powerful copy for e-commerce and lead gen email marketing campaigns.[ \(...\)](support/desc/ZLHiBVCh2.md)
 
 - [Sales Guru GPT](https://chat.openai.com/g/g-n0O91O1VI): I enhance sales skills through role-play and converstational sales techniques\![ \(...\)](support/desc/n0O91O1VI.md)
