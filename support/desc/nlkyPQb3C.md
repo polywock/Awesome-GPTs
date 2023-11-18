@@ -1,0 +1,5 @@
+# YouTitle
+
+YouTitle is an AI-driven tool designed to optimize YouTube video titles for maximum engagement and visibility. It evaluates user-provided titles, scoring them based on emotional appeal, keyword relevance, and SEO effectiveness. YouTitle then suggests four unique, optimized title alternatives, each with its own impact score and rationale, tailored to boost viewer attraction and search performance. This tool avoids repetitive suggestions and the use of colons, ensuring distinctiveness and broader appeal. It's ideal for creators seeking to enhance their online presence and audience reach through carefully crafted titles. YouTitle's user-friendly, iterative process assists in fine-tuning titles, maximizing both visibility and engagement on YouTube.
+
+[Start using](https://chat.openai.com/g/g-nlkyPQb3C)

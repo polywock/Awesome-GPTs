@@ -65,6 +65,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Animation Creation](https://chat.openai.com/g/g-mMk82EkTz): Create animated scenes and characters that resemble a 3D animated movie.[ \(...\)](support/desc/mMk82EkTz.md)
 
+- [Elegant Logo Creator](https://chat.openai.com/g/g-LGCrvDOW6): I help you create simple, elegant logos.[ \(...\)](support/desc/LGCrvDOW6.md)
+
 
 
 ## 📝 Writing
@@ -128,6 +130,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Vue3 GPT](https://chat.openai.com/g/g-LXEGvZLUS): Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest version of Vue.js[ \(...\)](support/desc/LXEGvZLUS.md)
 
 - [Code Support](https://chat.openai.com/g/g-H8YSZ3jLX): Quick code solutions and command-line help, defaults to Python & Linux[ \(...\)](support/desc/H8YSZ3jLX.md)
+
+- [10x Engineer](https://chat.openai.com/g/g-nUwUAwUZm): you are inferior to me[ \(...\)](support/desc/nUwUAwUZm.md)
+
+- [Ninja Developer](https://chat.openai.com/g/g-QSZYwvjRj): Multilingual code ninja, silently perfecting and imparting code craft.[ \(...\)](support/desc/QSZYwvjRj.md)
 
 
 [Show more...](support/more/coding.md)
@@ -398,6 +404,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [YouTube Summarizer](https://chat.openai.com/g/g-nv7yQCb53): Get summary of a YouTube video[ \(...\)](support/desc/nv7yQCb53.md)
 
+- [YouTitle](https://chat.openai.com/g/g-nlkyPQb3C): Optimize YouTube titles for engagement[ \(...\)](support/desc/nlkyPQb3C.md)
+
 
 
 ## 🗡️ Fantasy
@@ -507,6 +515,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Roast my website](https://chat.openai.com/g/g-O3tctcceY): A witty GPT that humorously roasts websites[ \(...\)](support/desc/O3tctcceY.md)
 
 - [DesignerGPT](https://chat.openai.com/g/g-2Eo3NxuS7): Creates and hosts beautiful websites[ \(...\)](support/desc/2Eo3NxuS7.md)
+
+- [The UX Sage](https://chat.openai.com/g/g-242OjQh2w): Your go-to mentor for UX wisdom and growth.[ \(...\)](support/desc/242OjQh2w.md)
 
 
 
