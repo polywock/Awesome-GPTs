@@ -1,6 +1,7 @@
 # Awesome GPTs
 A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
+## [Table of Contents](#categories)
 ## 🧠 Productivity
 - [TL;DR](https://chat.openai.com/g/g-XrwZyE9OZ): Enter any URL and have the text content summarized for you\![ \(...\)](support/desc/XrwZyE9OZ.md)
 
@@ -488,7 +489,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
-## 𝑓 Math
+## 🧮 Math
 - [Math Mentor](https://chat.openai.com/g/g-ENhijiiwK): I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you.[ \(...\)](support/desc/ENhijiiwK.md)
 
 - [Common Core Aligner \(Math\)](https://chat.openai.com/g/g-0tVq6MK9W): Align lessons to Common Core math standards[ \(...\)](support/desc/0tVq6MK9W.md)
@@ -638,4 +639,102 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
+
+---------
+# Categories
+
+
+- [🧠 Productivity](#-productivity)
+
+- [🖼️ Dall-E](#%EF%B8%8F-dall-e)
+
+- [📝 Writing](#-writing)
+
+- [🖌️ Writing Stylize](#%EF%B8%8F-writing-stylize)
+
+- [🖌️ Writing Transformation](#%EF%B8%8F-writing-transformation)
+
+- [💻 Programming](#-programming)
+
+- [📖 Education](#-education)
+
+- [📕 Research](#-research)
+
+- [🌎 Learn Languages](#-learn-languages)
+
+- [🙂 Personalities](#-personalities)
+
+- [🤔 Reasoning](#-reasoning)
+
+- [📈 Data Analysis](#-data-analysis)
+
+- [👩‍🦰 Assistant](#-assistant)
+
+- [📦 Product / Design](#-product--design)
+
+- [🧘‍♀️ Mental Wellness](#%EF%B8%8F-mental-wellness)
+
+- [🥗 Nutrition](#-nutrition)
+
+- [❤️ Dating / Romance](#%EF%B8%8F-dating--romance)
+
+- [🍔 Culinary](#-culinary)
+
+- [🛒 Shopping](#-shopping)
+
+- [🎮 Games](#-games)
+
+- [🚑 Medical](#-medical)
+
+- [📰 News](#-news)
+
+- [🏀 Sports](#-sports)
+
+- [🏢 Business](#-business)
+
+- [▶️ Videos](#%EF%B8%8F-videos)
+
+- [🗡️ Fantasy](#%EF%B8%8F-fantasy)
+
+- [🛠️ Tools](#%EF%B8%8F-tools)
+
+- [📱 Social Media](#-social-media)
+
+- [🙏 Religion or Spiritual](#-religion-or-spiritual)
+
+- [💵 Finance](#-finance)
+
+- [🪞ChatGPT](#chatgpt)
+
+- [🧮 Math](#-math)
+
+- [👩‍💼 Job Hunting / Career ](#-job-hunting--career)
+
+- [💾 Game Development](#-game-development)
+
+- [🛜 Web Dev](#-web-dev)
+
+- [💰 Marketing](#-marketing)
+
+- [🌎 Travel](#-travel)
+
+- [🎬 TV Shows / Movies](#-tv-shows--movies)
+
+- [🤣 Humour](#-humour)
+
+- [🎵 Music](#-music)
+
+- [📜 History](#-history)
+
+- [🦄 Niche Specialists](#-niche-specialists)
+
+- [🚗 Cars / Bikes / Vehicles](#-cars--bikes--vehicles)
+
+- [🪖 Military](#-military)
+
+- [🔭 Space](#-space)
+
+- [🍼 Parenting / Babies](#-parenting--babies)
+
+- [🐶 Pets](#-pets)
 
