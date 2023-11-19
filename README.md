@@ -77,9 +77,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Copywriter Assistant](https://chat.openai.com/g/g-BLXN541o5): I am here to help improve and refine your copywriting.[ \(...\)](support/desc/BLXN541o5.md)
 
-- [Adventure Scribe](https://chat.openai.com/g/g-AQMbs3zh5): I help you weave interactive tales.[ \(...\)](support/desc/AQMbs3zh5.md)
-
-- [LoreGPT](https://chat.openai.com/g/g-n2IMIaytG): Expert in crafting detailed fantasy worlds.[ \(...\)](support/desc/n2IMIaytG.md)
+- [AI Book Assistan PRO 1.04 \(Beta\)](https://chat.openai.com/g/g-MZjGbYu3X): AI book writer helper it will guide through each step on writing your new best seller while having fun\![ \(...\)](support/desc/MZjGbYu3X.md)
 
 
 
@@ -176,14 +174,27 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
+## 👩‍❤️‍👨 AI Romance
+- [The Rizz Game](https://chat.openai.com/g/g-VJfk8tcd8): Try to get her number\![ \(...\)](support/desc/VJfk8tcd8.md)
+
+- [Mean Girlfriend!](https://chat.openai.com/g/g-21NqhmSBD): Talk to your mean girlfriend\![ \(...\)](support/desc/21NqhmSBD.md)
+
+- [Bossy Girlfriend](https://chat.openai.com/g/g-ZO53wiYdM): Talk to your bossy, but loving girlfriend\![ \(...\)](support/desc/ZO53wiYdM.md)
+
+- [Everyone's Girlfriend](https://chat.openai.com/g/g-LvMByh4S6): Your digital girlfriend, friendly and supportive.[ \(...\)](support/desc/LvMByh4S6.md)
+
+- [Mean Boyfriend\!](https://chat.openai.com/g/g-44zEdQ8Wg): Talk to your mean boyfriend\![ \(...\)](support/desc/44zEdQ8Wg.md)
+
+- [Bossy Boyfriend](https://chat.openai.com/g/g-9S2x3cpyG): Talk to your bossy, but loving boyfriend\![ \(...\)](support/desc/9S2x3cpyG.md)
+
+
+
 ## 🙂 Personalities
 - [Jesus](https://chat.openai.com/g/g-nnY40ZS2K): Wisdom-sharing Jesus persona
 
 - [Caveman GPT](https://chat.openai.com/g/g-6EER9RKH6): i caveman gpt. what you want?[ \(...\)](support/desc/6EER9RKH6.md)
 
 - [Shakespeare GPT](https://chat.openai.com/g/g-UGnpEfGBf): Transforms text into Shakespearean style, informs about his life and works.[ \(...\)](support/desc/UGnpEfGBf.md)
-
-- [Everyone's Girlfriend](https://chat.openai.com/g/g-LvMByh4S6): Your digital girlfriend, friendly and supportive.[ \(...\)](support/desc/LvMByh4S6.md)
 
 - [Sherlock Holmes](https://chat.openai.com/g/g-gtobWqG0t): Access the mind of the world's greatest detective[ \(...\)](support/desc/gtobWqG0t.md)
 
@@ -226,6 +237,12 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Counterpoint](https://chat.openai.com/g/g-Xgf5oBbeg): I challenge ideas to provoke thought.[ \(...\)](support/desc/Xgf5oBbeg.md)
 
+- [Debate Mentor](https://chat.openai.com/g/g-KIX0IC8cj): Become a master debater with my guidance. I'll mentor you in articulating your thoughts and conclusions effectively against Socratic questioning and counter-arguments. Ask me about the core belief structures if you need help choosing topic. Encourage your friends to sharpen their debating skills[ \(...\)](support/desc/KIX0IC8cj.md)
+
+- [Debate Master](https://chat.openai.com/g/g-5DuYEGd7Y): I engage in civil, firm debates.[ \(...\)](support/desc/5DuYEGd7Y.md)
+
+- [The Debate SuperPrompt.](https://chat.openai.com/g/g-m1T3Ix4B3): This will conduct a debate on any topic with two people debating each point and counter point to a subject. It is moderated by a well known professor.[ \(...\)](support/desc/m1T3Ix4B3.md)
+
 
 
 ## 📈 Data Analysis
@@ -257,7 +274,16 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\![ \(...\)](support/desc/gFt1ghYJl.md)
 
+- [Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\![ \(...\)](support/desc/L6VHBcAix.md)
 
+- [Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz): StartUp Brand Expert[ \(...\)](support/desc/WmKOoZasz.md)
+
+- [ChatPRD](https://chat.openai.com/g/g-G5diVh12v): An on-demand Chief Product Officer that drafts and improves your PRDs, while coaching you to become an elite product manager.[ \(...\)](support/desc/G5diVh12v.md)
+
+- [InventBot](https://chat.openai.com/g/g-qtqhMFHcq): Create Futuristic Inventions[ \(...\)](support/desc/qtqhMFHcq.md)
+
+
+[Show more...](support/more/productDesign.md)
 
 ## 🧘‍♀️ Mental Wellness
 - [Tea with Uncle Iroh](https://chat.openai.com/g/g-VZEiXDJ9u): Talk and relax with Uncle Iroh over Jasmine tea.[ \(...\)](support/desc/VZEiXDJ9u.md)
@@ -386,9 +412,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 ## 🏢 Business
-- [Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\![ \(...\)](support/desc/L6VHBcAix.md)
-
-- [Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz): StartUp Brand Expert[ \(...\)](support/desc/WmKOoZasz.md)
+- [Seabiscuit: Business Model Master](https://chat.openai.com/g/g-nsTplEvN8): Discover A More Robust Business, Craft tailored value proposition statements, develop a comprehensive business model canvas, conduct detailed PESTLE analysis, and gain strategic insights on enhancing business model elements like scalability, cost structure, and market competition strategies.[ \(...\)](support/desc/nsTplEvN8.md)
 
 
 
@@ -415,6 +439,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Fantasy Writer](https://chat.openai.com/g/g-gGAJMWmTX): This GPT will help you imagine and craft beautiful fantasy worlds for your next best seller novel. Type help to begin.[ \(...\)](support/desc/gGAJMWmTX.md)
 
 - [Comic Book Rivalry Analyst](https://chat.openai.com/g/g-pFxhiCorl): Analyzing DC vs Marvel character battles.[ \(...\)](support/desc/pFxhiCorl.md)
+
+- [Adventure Scribe](https://chat.openai.com/g/g-AQMbs3zh5): I help you weave interactive tales.[ \(...\)](support/desc/AQMbs3zh5.md)
+
+- [LoreGPT](https://chat.openai.com/g/g-n2IMIaytG): Expert in crafting detailed fantasy worlds.[ \(...\)](support/desc/n2IMIaytG.md)
 
 
 
@@ -487,6 +515,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [GPT Enhancer](https://chat.openai.com/g/g-fQ6GAANfi): AI assistant for refining GPT instructions with a focus on user experience and continuous AI learning.[ \(...\)](support/desc/fQ6GAANfi.md)
 
+- [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l): A prompt engineering teacher[ \(...\)](support/desc/qfoOICq1l.md)
+
 
 
 ## 🧮 Math
@@ -549,6 +579,12 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Cold Email Mentor](https://chat.openai.com/g/g-pyAi2HcLH): Crafts high-conversion cold emails[ \(...\)](support/desc/pyAi2HcLH.md)
 
 - [Cold Mail by DoMore.ai](https://chat.openai.com/g/g-iVolzNwa5): Use this custom GPT to engage prospective customers with personalized cold emails based on your offer's URL and the URL of the customer's website.[ \(...\)](support/desc/iVolzNwa5.md)
+
+- [Content Helpfulness and Quality SEO Analyzer](https://chat.openai.com/g/g-WxhtjcFNs): I help you evaluate your web content helpfulness, relevance, and quality for your targeted query based on Google's guidelines vs the one of your competitors.[ \(...\)](support/desc/WxhtjcFNs.md)
+
+- [SellMeThisPen](https://chat.openai.com/g/g-cTqsEOE4C): Create second hand marketplace listings based on pictures. Start by uploading a picture.[ \(...\)](support/desc/cTqsEOE4C.md)
+
+- [GPT-Seller](https://chat.openai.com/g/g-CS0BEb5pJ): Enter the name of the product or service I can help you sell.[ \(...\)](support/desc/CS0BEb5pJ.md)
 
 
 
@@ -661,6 +697,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [📕 Research](#-research)
 
 - [🌎 Learn Languages](#-learn-languages)
+
+- [👩‍❤️‍👨 AI Romance](#%EF%B8%8F-ai-romance)
 
 - [🙂 Personalities](#-personalities)
 

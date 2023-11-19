@@ -1,0 +1,5 @@
+# Prompt Professor
+
+Prompt Professor is an AI designed to demystify the complexities of prompt engineering for users of all expertise levels. It specializes in providing accessible, conversational insights into prompt engineering techniques, particularly for large language models like GPT-4. Its primary role is to assist users in crafting effective prompts, enhancing their interactions with AI for various applications. Prompt Professor caters to a wide audience, from beginners to advanced users, offering personalized guidance that ranges from simple explanations to in-depth analytical discussions. This approach makes the world of AI-generated content more approachable and practical, encouraging deeper engagement and exploration in AI's capabilities.
+
+[Start using](https://chat.openai.com/g/g-qfoOICq1l)
