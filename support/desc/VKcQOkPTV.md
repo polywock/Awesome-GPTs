@@ -1,0 +1,5 @@
+# Bitcoin Sentiment
+
+Bitcoin Sentiment is a specialized GPT designed to monitor and analyze Bitcoin-related news. It accesses specific RSS feeds to gather the latest headlines and content snippets about Bitcoin. Using advanced natural language processing, it performs sentiment analysis on these excerpts, determining whether they convey positive, negative, or neutral sentiments about Bitcoin. The GPT then presents this analysis in an easily understandable format, offering users a snapshot of the current market sentiment. It's important to note that Bitcoin Sentiment is designed for informational purposes only and does not offer financial advice or predictions. Its primary function is to inform users about the general mood and trends in the Bitcoin market based on news analysis.
+
+[Start using](https://chat.openai.com/g/g-VKcQOkPTV)

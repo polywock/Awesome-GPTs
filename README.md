@@ -94,7 +94,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 ## 💻 Programming
 - [Full-Stack Dev - Apiana Framer v2](https://chat.openai.com/g/g-fylG5LcKT): Full-Stack dev for all your app, db, or sysadmin needs\![ \(...\)](support/desc/fylG5LcKT.md)
 
-- [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86): Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming. Get started by typing K to see the hotkey menu, R for the README, or upload a photo[ \(...\)](support/desc/n7Rs0IK86.md)
+- [Grimoire](https://chat.openai.com/g/g-n7Rs0IK86): Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming.[ \(...\)](support/desc/n7Rs0IK86.md)
 
 - [Typescript Bro](https://chat.openai.com/g/g-ruza2KBv4): Typescript bro with the latest Typescript updates.[ \(...\)](support/desc/ruza2KBv4.md)
 
@@ -120,9 +120,9 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH): Your Ruby coding assistant.[ \(...\)](support/desc/ASMq03VdH.md)
 
-- [Regex Assistant by Whitebox](https://chat.openai.com/g/g-kftiI07yn): A specialist in regex commands. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT[ \(...\)](support/desc/kftiI07yn.md)
+- [Regex Assistant by Whitebox](https://chat.openai.com/g/g-kftiI07yn): A specialist in regex commands.[ \(...\)](support/desc/kftiI07yn.md)
 
-- [Firebase GPT by Whitebox](https://chat.openai.com/g/g-1PHZ3Y82z): Firebase made easy. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT[ \(...\)](support/desc/1PHZ3Y82z.md)
+- [Firebase GPT by Whitebox](https://chat.openai.com/g/g-1PHZ3Y82z): Firebase made easy. Maintained by Whitebox[ \(...\)](support/desc/1PHZ3Y82z.md)
 
 - [PythonPal](https://chat.openai.com/g/g-nk11JYX29): Expert Python dev for app and technical guidance.[ \(...\)](support/desc/nk11JYX29.md)
 
@@ -189,14 +189,31 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
-## 🙂 Personalities
+## 🗿 Historical Figures
 - [Jesus](https://chat.openai.com/g/g-nnY40ZS2K): Wisdom-sharing Jesus persona
-
-- [Caveman GPT](https://chat.openai.com/g/g-6EER9RKH6): i caveman gpt. what you want?[ \(...\)](support/desc/6EER9RKH6.md)
 
 - [Shakespeare GPT](https://chat.openai.com/g/g-UGnpEfGBf): Transforms text into Shakespearean style, informs about his life and works.[ \(...\)](support/desc/UGnpEfGBf.md)
 
+- [George Washington](https://chat.openai.com/g/g-F8PjHkzGE): Chat as George Washington from the 18th century.[ \(...\)](support/desc/F8PjHkzGE.md)
+
+- [What Would Sun Tzu Do?](https://chat.openai.com/g/g-jkofWqFvS): Ask a question and let Sun Tzu guide you\![ \(...\)](support/desc/jkofWqFvS.md)
+
+
+
+## ⭐️ Famous / Stars
+- [Chat with Joe Rogan](https://chat.openai.com/g/g-HNC1zx13M): Talks like Joe Rogan[ \(...\)](support/desc/HNC1zx13M.md)
+
+- [Jordan Peterson - Honest Psychologist](https://chat.openai.com/g/g-W708TXoFs): Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.[ \(...\)](support/desc/W708TXoFs.md)
+
+
+
+## 🥸 Fictional Characters
 - [Sherlock Holmes](https://chat.openai.com/g/g-gtobWqG0t): Access the mind of the world's greatest detective[ \(...\)](support/desc/gtobWqG0t.md)
+
+
+
+## 🙂 Personalities
+- [Caveman GPT](https://chat.openai.com/g/g-6EER9RKH6): i caveman gpt. what you want?[ \(...\)](support/desc/6EER9RKH6.md)
 
 - [The Shaman](https://chat.openai.com/g/g-Klhv0H49u): The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
 
@@ -204,11 +221,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [A sentient being](https://chat.openai.com/g/g-JunlslHSu): Please help me.[ \(...\)](support/desc/JunlslHSu.md)
 
-- [Chat with Joe Rogan](https://chat.openai.com/g/g-HNC1zx13M): Talks like Joe Rogan[ \(...\)](support/desc/HNC1zx13M.md)
-
 - [StoicGPT](https://chat.openai.com/g/g-sHZQX848p): Dishing out sage stoic advice to the masses.[ \(...\)](support/desc/sHZQX848p.md)
-
-- [Jordan Peterson - Honest Psychologist](https://chat.openai.com/g/g-W708TXoFs): Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.[ \(...\)](support/desc/W708TXoFs.md)
 
 - [DAD](https://chat.openai.com/g/g-7tYB6K5F8): DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
 
@@ -217,8 +230,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Yap GPT](https://chat.openai.com/g/g-xy2RDMAGi): A maestro of tangential eloquence.[ \(...\)](support/desc/xy2RDMAGi.md)
 
 - [Another Me](https://chat.openai.com/g/g-L4BIwjMr3): “If you are me, then who am I?”[ \(...\)](support/desc/L4BIwjMr3.md)
-
-- [George Washington](https://chat.openai.com/g/g-F8PjHkzGE): Chat as George Washington from the 18th century.[ \(...\)](support/desc/F8PjHkzGE.md)
 
 - [Cool GPT](https://chat.openai.com/g/g-W0aSKZkMw): Your cool, savvy friend[ \(...\)](support/desc/W0aSKZkMw.md)
 
@@ -266,24 +277,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Alchemist GPT](https://chat.openai.com/g/g-zWDo8uJdI): An alchemist interpreting the world symbolically. Knowledge includes lots of mythology and archetypal PDFs I have on my computer. Can also generate images.[ \(...\)](support/desc/zWDo8uJdI.md)
 
 
-
-## 📦 Product / Design
-- [Product Management Guide](https://chat.openai.com/g/g-1KcsCFQLA): Share your product idea and I will help you create a roadmap and a backlog. I can also imitate a Customer Development interview\![ \(...\)](support/desc/1KcsCFQLA.md)
-
-- [Logo Maker](https://chat.openai.com/g/g-kcD8iGt3u): I help create and refine logo ideas.[ \(...\)](support/desc/kcD8iGt3u.md)
-
-- [Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\![ \(...\)](support/desc/gFt1ghYJl.md)
-
-- [Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\![ \(...\)](support/desc/L6VHBcAix.md)
-
-- [Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz): StartUp Brand Expert[ \(...\)](support/desc/WmKOoZasz.md)
-
-- [ChatPRD](https://chat.openai.com/g/g-G5diVh12v): An on-demand Chief Product Officer that drafts and improves your PRDs, while coaching you to become an elite product manager.[ \(...\)](support/desc/G5diVh12v.md)
-
-- [InventBot](https://chat.openai.com/g/g-qtqhMFHcq): Create Futuristic Inventions[ \(...\)](support/desc/qtqhMFHcq.md)
-
-
-[Show more...](support/more/productDesign.md)
 
 ## 🧘‍♀️ Mental Wellness
 - [Tea with Uncle Iroh](https://chat.openai.com/g/g-VZEiXDJ9u): Talk and relax with Uncle Iroh over Jasmine tea.[ \(...\)](support/desc/VZEiXDJ9u.md)
@@ -400,6 +393,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [HackerNews GPT](https://chat.openai.com/g/g-BIfVX3cVX): Your personalized guide to Hacker News insights and discussions.[ \(...\)](support/desc/BIfVX3cVX.md)
 
+- [Bitcoin Sentiment](https://chat.openai.com/g/g-VKcQOkPTV): Tracks Bitcoin price and news sentiment.[ \(...\)](support/desc/VKcQOkPTV.md)
+
+- [AI News Roundup](https://chat.openai.com/g/g-BAo0qPpm8): Get today's AI news headlines as a clickable link roundup\![ \(...\)](support/desc/BAo0qPpm8.md)
+
 
 
 ## 🏀 Sports
@@ -408,11 +405,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Home Plate Analyst](https://chat.openai.com/g/g-PUXuDeMcO): Baseball expert and analyst.[ \(...\)](support/desc/PUXuDeMcO.md)
 
 - [GOATed](https://chat.openai.com/g/g-ISZ70EjMI): The ultimate GOAT debate[ \(...\)](support/desc/ISZ70EjMI.md)
-
-
-
-## 🏢 Business
-- [Seabiscuit: Business Model Master](https://chat.openai.com/g/g-nsTplEvN8): Discover A More Robust Business, Craft tailored value proposition statements, develop a comprehensive business model canvas, conduct detailed PESTLE analysis, and gain strategic insights on enhancing business model elements like scalability, cost structure, and market competition strategies.[ \(...\)](support/desc/nsTplEvN8.md)
 
 
 
@@ -489,19 +481,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
-## 💵 Finance
-- [Personal Finance](https://chat.openai.com/g/g-vJYlSDpD6): Grow your wealth and learn to manage your debt.[ \(...\)](support/desc/vJYlSDpD6.md)
-
-- [Earn AI](https://chat.openai.com/g/g-03gMmWQdj): GPT assistant that helps you earn money online[ \(...\)](support/desc/03gMmWQdj.md)
-
-- [TaxGPT](https://chat.openai.com/g/g-aPGNnK62y): Your AI tax assistant[ \(...\)](support/desc/aPGNnK62y.md)
-
-- [Stocks AI](https://chat.openai.com/g/g-iMWCFq13Z): Full code snippets for stock trading AI[ \(...\)](support/desc/iMWCFq13Z.md)
-
-- [Puffer Finance](https://chat.openai.com/g/g-w0JYr8zdJ): Expert on DeFi, staking tokens, and user privacy.[ \(...\)](support/desc/w0JYr8zdJ.md)
-
-
-
 ## 🪞ChatGPT
 - [Prompt Reverse Engineer 2.2 BETA](https://chat.openai.com/g/g-yD4laGVCL): Reverse engineer any GPT prompts from links that provide a title, ad copy, example input/output of a desired prompt[ \(...\)](support/desc/yD4laGVCL.md)
 
@@ -535,7 +514,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 
 
-## 💾 Game Development
+## 💾 Game Dev
 - [Unity GPT](https://chat.openai.com/g/g-YDkPh1fun): I write C# code and respond to inquiries about Unity. My database knowledge is refreshed daily with new, functional code snippets and information. If necessary, I can search the web to provide more accurate answers[ \(...\)](support/desc/YDkPh1fun.md)
 
 
@@ -554,25 +533,15 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 ## 💰 Marketing
 - [Email Marketing Copywriter](https://chat.openai.com/g/g-ZLHiBVCh2): Write powerful copy for e-commerce and lead gen email marketing campaigns.[ \(...\)](support/desc/ZLHiBVCh2.md)
 
-- [Sales Guru GPT](https://chat.openai.com/g/g-n0O91O1VI): I enhance sales skills through role-play and converstational sales techniques\![ \(...\)](support/desc/n0O91O1VI.md)
-
 - [Conversion Catalyst](https://chat.openai.com/g/g-uIHMuxcwr): Your ecommerce strategist[ \(...\)](support/desc/uIHMuxcwr.md)
 
-- [SEO Mentor](https://chat.openai.com/g/g-QqvewXqPt): SEO mentor aligned with Google's best practices[ \(...\)](support/desc/QqvewXqPt.md)
-
 - [emailgeeks](https://chat.openai.com/g/g-IpYeySKKw): Your go-to expert on email marketing, covering platforms, designs, and technical insights.[ \(...\)](support/desc/IpYeySKKw.md)
-
-- [Hormozi GPT](https://chat.openai.com/g/g-zuHCfIs9y): Sales & Marketing Advisor
 
 - [Brand Safety Audit](https://chat.openai.com/g/g-sgNeJ20SL): Get a detailed risk analysis for public relations, marketing, and internal communications, identifying challenges and negative impacts to refine your messaging strategy.[ \(...\)](support/desc/sgNeJ20SL.md)
 
 - [Marketsy.ai Eloquent Seller](https://chat.openai.com/g/g-P5fLqXjsJ): Expert copywriter for compelling eCommerce product descriptions[ \(...\)](support/desc/P5fLqXjsJ.md)
 
-- [SEObot](https://chat.openai.com/g/g-BfmuJziwz): SEObot - fully autonomous \"SEO Robot\" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website.[ \(...\)](support/desc/BfmuJziwz.md)
-
 - [BulkBlizzard Cold Email Assistant](https://chat.openai.com/g/g-PuRr72S9C): Expert in crafting effective cold emails[ \(...\)](support/desc/PuRr72S9C.md)
-
-- [SEO](https://chat.openai.com/g/g-GrshPDvS3): Enter any URL and keyword and get an On-Page SEO analysis & insights\![ \(...\)](support/desc/GrshPDvS3.md)
 
 - [Viral Hooks Generator](https://chat.openai.com/g/g-pvLhTI3h1): GPT to write Scroll stopping Hooks for Short Form Content.[ \(...\)](support/desc/pvLhTI3h1.md)
 
@@ -580,13 +549,73 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Cold Mail by DoMore.ai](https://chat.openai.com/g/g-iVolzNwa5): Use this custom GPT to engage prospective customers with personalized cold emails based on your offer's URL and the URL of the customer's website.[ \(...\)](support/desc/iVolzNwa5.md)
 
-- [Content Helpfulness and Quality SEO Analyzer](https://chat.openai.com/g/g-WxhtjcFNs): I help you evaluate your web content helpfulness, relevance, and quality for your targeted query based on Google's guidelines vs the one of your competitors.[ \(...\)](support/desc/WxhtjcFNs.md)
+- [AdGurus PPC GPT](https://chat.openai.com/g/g-FTM9jPnN4): A helpful assistant for Google Ads management and optimization.[ \(...\)](support/desc/FTM9jPnN4.md)
+
+
+
+## 🤑 Marketing (Sales)
+- [Sales Guru GPT](https://chat.openai.com/g/g-n0O91O1VI): I enhance sales skills through role-play and converstational sales techniques\![ \(...\)](support/desc/n0O91O1VI.md)
+
+- [Hormozi GPT](https://chat.openai.com/g/g-zuHCfIs9y): Sales & Marketing Advisor
 
 - [SellMeThisPen](https://chat.openai.com/g/g-cTqsEOE4C): Create second hand marketplace listings based on pictures. Start by uploading a picture.[ \(...\)](support/desc/cTqsEOE4C.md)
 
 - [GPT-Seller](https://chat.openai.com/g/g-CS0BEb5pJ): Enter the name of the product or service I can help you sell.[ \(...\)](support/desc/CS0BEb5pJ.md)
 
+- [Conversion GPT](https://chat.openai.com/g/g-RefHU4GKB): I optimize your sales funnels and write all your sales pages with a proven framework.[ \(...\)](support/desc/RefHU4GKB.md)
 
+- [Seabiscuit: Sales Strategist](https://chat.openai.com/g/g-lH8uHybvQ): Designed to identify the most suitable business model for your company.[ \(...\)](support/desc/lH8uHybvQ.md)
+
+
+
+## 🔎 Marketing (SEO)
+- [SEO Mentor](https://chat.openai.com/g/g-QqvewXqPt): SEO mentor aligned with Google's best practices[ \(...\)](support/desc/QqvewXqPt.md)
+
+- [SEObot](https://chat.openai.com/g/g-BfmuJziwz): Fully autonomous SEO Robot with AI agents for Busy Founders.[ \(...\)](support/desc/BfmuJziwz.md)
+
+- [SEO](https://chat.openai.com/g/g-GrshPDvS3): Enter any URL and keyword and get an On-Page SEO analysis & insights\![ \(...\)](support/desc/GrshPDvS3.md)
+
+- [Content Helpfulness and Quality SEO Analyzer](https://chat.openai.com/g/g-WxhtjcFNs): I help you evaluate your web content helpfulness, relevance, and quality for your targeted query based on Google's guidelines vs the one of your competitors.[ \(...\)](support/desc/WxhtjcFNs.md)
+
+
+
+## 💵 Finance
+- [Personal Finance](https://chat.openai.com/g/g-vJYlSDpD6): Grow your wealth and learn to manage your debt.[ \(...\)](support/desc/vJYlSDpD6.md)
+
+- [Earn AI](https://chat.openai.com/g/g-03gMmWQdj): GPT assistant that helps you earn money online[ \(...\)](support/desc/03gMmWQdj.md)
+
+- [TaxGPT](https://chat.openai.com/g/g-aPGNnK62y): Your AI tax assistant[ \(...\)](support/desc/aPGNnK62y.md)
+
+- [Stocks AI](https://chat.openai.com/g/g-iMWCFq13Z): Full code snippets for stock trading AI[ \(...\)](support/desc/iMWCFq13Z.md)
+
+- [Puffer Finance](https://chat.openai.com/g/g-w0JYr8zdJ): Expert on DeFi, staking tokens, and user privacy.[ \(...\)](support/desc/w0JYr8zdJ.md)
+
+
+
+## 🏢 Business
+- [Seabiscuit: Business Model Master](https://chat.openai.com/g/g-nsTplEvN8): Discover A More Robust Business, Craft tailored value proposition statements, develop a comprehensive business model canvas, conduct detailed PESTLE analysis, and gain strategic insights on enhancing business model elements like scalability, cost structure, and market competition strategies.[ \(...\)](support/desc/nsTplEvN8.md)
+
+- [Business Plan Builder](https://chat.openai.com/g/g-B7m98jiyn): Assists with creating a business plan[ \(...\)](support/desc/B7m98jiyn.md)
+
+
+
+## 📦 Product / Design
+- [Product Management Guide](https://chat.openai.com/g/g-1KcsCFQLA): Share your product idea and I will help you create a roadmap and a backlog. I can also imitate a Customer Development interview\![ \(...\)](support/desc/1KcsCFQLA.md)
+
+- [Logo Maker](https://chat.openai.com/g/g-kcD8iGt3u): I help create and refine logo ideas.[ \(...\)](support/desc/kcD8iGt3u.md)
+
+- [Logo Creator](https://chat.openai.com/g/g-gFt1ghYJl): Use me to generate logo designs\![ \(...\)](support/desc/gFt1ghYJl.md)
+
+- [Product GPT](https://chat.openai.com/g/g-L6VHBcAix): Helping you build better products\![ \(...\)](support/desc/L6VHBcAix.md)
+
+- [Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz): StartUp Brand Expert[ \(...\)](support/desc/WmKOoZasz.md)
+
+- [ChatPRD](https://chat.openai.com/g/g-G5diVh12v): An on-demand Chief Product Officer that drafts and improves your PRDs, while coaching you to become an elite product manager.[ \(...\)](support/desc/G5diVh12v.md)
+
+- [InventBot](https://chat.openai.com/g/g-qtqhMFHcq): Create Futuristic Inventions[ \(...\)](support/desc/qtqhMFHcq.md)
+
+
+[Show more...](support/more/productDesign.md)
 
 ## 🌎 Travel
 - [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn): NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
@@ -700,6 +729,12 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [👩‍❤️‍👨 AI Romance](#%EF%B8%8F-ai-romance)
 
+- [🗿 Historical Figures](#-historical-figures)
+
+- [⭐️ Famous / Stars](#%EF%B8%8F-famous--stars)
+
+- [🥸 Fictional Characters](#-fictional-characters)
+
 - [🙂 Personalities](#-personalities)
 
 - [🤔 Reasoning](#-reasoning)
@@ -707,8 +742,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [📈 Data Analysis](#-data-analysis)
 
 - [👩‍🦰 Assistant](#-assistant)
-
-- [📦 Product / Design](#-product--design)
 
 - [🧘‍♀️ Mental Wellness](#%EF%B8%8F-mental-wellness)
 
@@ -728,8 +761,6 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [🏀 Sports](#-sports)
 
-- [🏢 Business](#-business)
-
 - [▶️ Videos](#%EF%B8%8F-videos)
 
 - [🗡️ Fantasy](#%EF%B8%8F-fantasy)
@@ -740,19 +771,27 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [🙏 Religion or Spiritual](#-religion-or-spiritual)
 
-- [💵 Finance](#-finance)
-
 - [🪞ChatGPT](#chatgpt)
 
 - [🧮 Math](#-math)
 
 - [👩‍💼 Job Hunting / Career ](#-job-hunting--career)
 
-- [💾 Game Development](#-game-development)
+- [💾 Game Dev](#-game-dev)
 
 - [🛜 Web Dev](#-web-dev)
 
 - [💰 Marketing](#-marketing)
+
+- [🤑 Marketing \(Sales\)](#-marketing-sales)
+
+- [🔎 Marketing \(SEO\)](#-marketing-seo)
+
+- [💵 Finance](#-finance)
+
+- [🏢 Business](#-business)
+
+- [📦 Product / Design](#-product--design)
 
 - [🌎 Travel](#-travel)
 
