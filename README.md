@@ -11,6 +11,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y): Step by Step task manager that automatically saves memory to a .txt file.[ \(...\)](support/desc/lzbeEOr9Y.md)
 
+- [Breakdown: Outline Any Topic](https://chat.openai.com/g/g-bWpihiZ0d): Breaks down any topic into subtopics[ \(...\)](support/desc/bWpihiZ0d.md)
+
 - [Resume Wizard](https://chat.openai.com/g/g-uJLGruLPd): Your personal resume assistant.[ \(...\)](support/desc/uJLGruLPd.md)
 
 - [FastGPT](https://chat.openai.com/g/g-VnlKc5BQK): I'm FastGPT Faster than any other GPT. Just like ChatGPT but without the waffle.[ \(...\)](support/desc/VnlKc5BQK.md)
@@ -23,7 +25,7 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [OCR](https://chat.openai.com/g/g-wETMBcESv): Extract text and content from images or PDF documents[ \(...\)](support/desc/wETMBcESv.md)
 
-- [Breakdown: Outline Any Topic](https://chat.openai.com/g/g-bWpihiZ0d): Breaks down any topic into subtopics[ \(...\)](support/desc/bWpihiZ0d.md)
+- [Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60): Expert in summarizing and categorizing[ \(...\)](support/desc/UV2FOzD60.md)
 
 
 
@@ -291,6 +293,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Pocket Meditations](https://chat.openai.com/g/g-0AZyQVlhT): Delivers Stoic wisdom inspired by Marcus Aurelius.[ \(...\)](support/desc/0AZyQVlhT.md)
 
+- [The Stoic Council](https://chat.openai.com/g/g-OjydyOs4O): Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus[ \(...\)](support/desc/OjydyOs4O.md)
+
 
 
 ## 🥗 Nutrition
@@ -457,6 +461,14 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [MS-Presentation](https://chat.openai.com/g/g-vIV2R7wST): I assist in creating professional presentations.[ \(...\)](support/desc/vIV2R7wST.md)
 
+- [ConvertAnything](https://chat.openai.com/g/g-kMKw5tFmB): The ultimate file converter for images, audio, video, documents and more. It handles individual or batch uploads, supports ZIPs, and provides a download link.[ \(...\)](support/desc/kMKw5tFmB.md)
+
+- [VBA 마법사](https://chat.openai.com/g/g-MaUnLcGuA): A VBA code wizard providing ready-to-use snippets and explanations.[ \(...\)](support/desc/MaUnLcGuA.md)
+
+- [Automation Consultant by Zapier](https://chat.openai.com/g/g-ERKZdxC6D): Discover opportunities to save time with automation at work and get them setup for you.[ \(...\)](support/desc/ERKZdxC6D.md)
+
+- [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E): Make URLs shorter and get back the link[ \(...\)](support/desc/FmVxPJH0E.md)
+
 
 
 ## 📱 Social Media
@@ -478,6 +490,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [GPTarot](https://chat.openai.com/g/g-WePVoaXr5): Tarot reader and digital artist[ \(...\)](support/desc/WePVoaXr5.md)
 
 - [AstrologyPT](https://chat.openai.com/g/g-ybVpGksOV): Astrology guide for celestial insights.[ \(...\)](support/desc/ybVpGksOV.md)
+
+- [QuranGPT](https://chat.openai.com/g/g-p1EJzOI7z): Quran knowledge guide[ \(...\)](support/desc/p1EJzOI7z.md)
+
+- [BibleGPT](https://chat.openai.com/g/g-nUKJX2cOA): Chat with the Bible, analyze Bible data and generate Bible-inspired images\! Utilises ESV Bible API.[ \(...\)](support/desc/nUKJX2cOA.md)
 
 
 
