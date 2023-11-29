@@ -278,6 +278,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Alchemist GPT](https://chat.openai.com/g/g-zWDo8uJdI): An alchemist interpreting the world symbolically. Knowledge includes lots of mythology and archetypal PDFs I have on my computer. Can also generate images.[ \(...\)](support/desc/zWDo8uJdI.md)
 
+- [AutoGPT Agent](https://chat.openai.com/g/g-POb5UhhJ6-autogpt-agent): Your personal AI agent will plan, research, strategize and execute tasks semi-autonomously using multi-modal tools as needed. Completes tasks with just a few keystrokes.
+
 
 
 ## 🧘‍♀️ Mental Wellness
