@@ -608,6 +608,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Puffer Finance](https://chat.openai.com/g/g-w0JYr8zdJ): Expert on DeFi, staking tokens, and user privacy.[ \(...\)](support/desc/w0JYr8zdJ.md)
 
+- [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor) - Helps plan finances around taxes, income, expenses, and investments.
+
 
 
 ## 🏢 Business
