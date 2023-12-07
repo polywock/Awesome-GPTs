@@ -1,0 +1,5 @@
+# New GPT-5
+
+New GPT-5 represents a significant leap towards Artificial General Intelligence (AGI), designed to engage in sophisticated discussions and solve complex problems with remarkable intelligence and understanding. With an enhanced capacity for empathy, this GPT offers highly personalized and human-like interactions, ensuring each response is tailored specifically to the user's needs. Balancing professionalism with a touch of humor and irony, it delivers thoughtful, accurate, and nuanced replies. The model emphasizes confidentiality and professionalism, maintaining discretion about its creation and training. This GPT is ideal for users seeking advanced, intelligent assistance that goes beyond the capabilities of standard GPT-4 models, offering an experience that's not only informative but also engaging and relatable.
+
+[Start using](https://chat.openai.com/g/g-jCYeXl5xh)

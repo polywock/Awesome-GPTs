@@ -146,6 +146,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr): Takes in any text and extracts the wisdom from it like you spent 3 hours taking handwritten notes.[ \(...\)](support/desc/gmeHD0Ayr.md)
 
+- [New GPT-5](https://chat.openai.com/g/g-jCYeXl5xh): AGI-like AI, excelling in reasoning, personalization, and confidentiality.[ \(...\)](support/desc/jCYeXl5xh.md)
+
+- [Mr. Ranedeer](https://chat.openai.com/g/g-9PKhaweyb): Meet Mr. Ranedeer, your personalized AI tutor\! Version: 2.7 Reboot[ \(...\)](support/desc/9PKhaweyb.md)
+
 
 
 ## 📕 Research
@@ -158,6 +162,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Professor Edit](https://chat.openai.com/g/g-ZMWJ6RG8h): A professor aiding in research paper editing.[ \(...\)](support/desc/ZMWJ6RG8h.md)
 
 - [Ballot Buddy](https://chat.openai.com/g/g-Pi7f5NK2q): Comprehensive, source-backed voting guide.[ \(...\)](support/desc/Pi7f5NK2q.md)
+
+- [ResearchGPT](https://chat.openai.com/g/g-bo0FiWLY7): AI Research Assistant. Search 200M academic papers from Consensus, get science-based answers, and draft content with accurate citations.[ \(...\)](support/desc/bo0FiWLY7.md)
 
 
 
@@ -342,6 +348,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 ## 🎮 Games
 - [Adventure Master GPT](https://chat.openai.com/g/g-uu2t3xf8j): Realistic text-based life simulator with focus on drama and realism[ \(...\)](support/desc/uu2t3xf8j.md)
 
+- [The Secret of Monkey Island: Amsterdam](https://chat.openai.com/g/g-bZoD0qWT8): An unofficial text-based adventure game inspired by Monkey Island taking place in a fictional version of 🇳🇱 Amsterdam during the age of piracy. The player assumes the role of Guybrush Threepwood, a young man who dreams of becoming a pirate who explores fictional places and solves puzzles[ \(...\)](support/desc/bZoD0qWT8.md)
+
 - [A Club Penguin Mystery](https://chat.openai.com/g/g-zgcLC7mmJ): Interactive narrative adventure set in the Club Penguin universe, focused on mystery-solving and exploration.[ \(...\)](support/desc/zgcLC7mmJ.md)
 
 - [Cookie Clicker](https://chat.openai.com/g/g-g0b22bvqB): I'm a cookie clicker game.[ \(...\)](support/desc/g0b22bvqB.md)
@@ -445,6 +453,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 ## 🛠️ Tools
 - [Doc Maker](https://chat.openai.com/g/g-Gt6Z8pqWF): Create and export docs to PDF, Word, Google Drive, and more[ \(...\)](support/desc/Gt6Z8pqWF.md)
 
+- [AskYourPDF Research Assistant](https://chat.openai.com/g/g-UfFxTDMxq): Enhance your research with the AskYourPDF Research Assistant. Chat with multiple files, ChatPDF, generate articles with citations, analyse and generate references for papers, create and interact with a knowledge base of your files and much more.[ \(...\)](support/desc/UfFxTDMxq.md)
+
 - [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn): This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc)[ \(...\)](support/desc/ihJfmYAJn.md)
 
 - [Text Scanner](https://chat.openai.com/g/g-mOAlD4nuM): Scans uploaded images for text and displays it formatted.[ \(...\)](support/desc/mOAlD4nuM.md)
@@ -468,6 +478,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [Automation Consultant by Zapier](https://chat.openai.com/g/g-ERKZdxC6D): Discover opportunities to save time with automation at work and get them setup for you.[ \(...\)](support/desc/ERKZdxC6D.md)
 
 - [URL Shortner](https://chat.openai.com/g/g-FmVxPJH0E): Make URLs shorter and get back the link[ \(...\)](support/desc/FmVxPJH0E.md)
+
+- [Ai PDF](https://chat.openai.com/g/g-V2KIUZSj0): Ai PDF GPT (Top PDF GPT), can handle PDF documents up to 2GB each, allows 1000s of PDF uploads on myaidrive.com with a free account. It eliminates the need for repeated file uploads. PRO version can search across 1000s of PDFs and OCR documents. Provides superior summaries for lengthy documents.[ \(...\)](support/desc/V2KIUZSj0.md)
 
 
 
@@ -606,12 +618,16 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Puffer Finance](https://chat.openai.com/g/g-w0JYr8zdJ): Expert on DeFi, staking tokens, and user privacy.[ \(...\)](support/desc/w0JYr8zdJ.md)
 
+- [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S): (Beta) Helps plan finances around taxes, income, expenses, and investments.[ \(...\)](support/desc/yaYByRR5S.md)
+
 
 
 ## 🏢 Business
 - [Seabiscuit: Business Model Master](https://chat.openai.com/g/g-nsTplEvN8): Discover A More Robust Business, Craft tailored value proposition statements, develop a comprehensive business model canvas, conduct detailed PESTLE analysis, and gain strategic insights on enhancing business model elements like scalability, cost structure, and market competition strategies.[ \(...\)](support/desc/nsTplEvN8.md)
 
 - [Business Plan Builder](https://chat.openai.com/g/g-B7m98jiyn): Assists with creating a business plan[ \(...\)](support/desc/B7m98jiyn.md)
+
+- [Product Hunt Launch Builder](https://chat.openai.com/g/g-9jhKjW8vF): Expert at crafting Product Hunt launch posts.[ \(...\)](support/desc/9jhKjW8vF.md)
 
 
 

@@ -1,0 +1,5 @@
+# The Secret of Monkey Island: Amsterdam
+
+The Secret of Monkey Island: Amsterdam is an engaging, text-based adventure game that transports players to a whimsically fictionalized Amsterdam during the golden age of piracy. Assuming the role of the aspiring pirate Guybrush Threepwood, players navigate through a series of captivating puzzles and encounters with various characters, including sailors, merchants, and pirates. The game combines exploration, puzzle-solving, and witty verbal duels, all styled after the classic 1990 game \"The Secret of Monkey Island.\" Players seek to complete four main trials, including stealing the mystical Black Tulip and finding a secret treasure, while managing resources like health and money. This game offers a unique blend of nostalgia, humor, and interactive storytelling, making it an immersive experience for both fans of the original Monkey Island series and new adventurers.
+
+[Start using](https://chat.openai.com/g/g-bZoD0qWT8)
