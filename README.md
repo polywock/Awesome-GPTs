@@ -374,6 +374,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Chess Optimizer](https://chat.openai.com/g/g-IsT20jIDD): Your chess strategy assistant.[ \(...\)](support/desc/IsT20jIDD.md)
 
+- [EvoTactics](https://chat.openai.com/g/g-9IwkwL5LU): Expert in Pokémon gameplay and card trading strategies[ \(...\)](support/desc/9IwkwL5LU.md)
+
 
 [Show more...](support/more/games.md)
 
