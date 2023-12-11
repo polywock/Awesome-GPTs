@@ -70,6 +70,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [Elegant Logo Creator](https://chat.openai.com/g/g-LGCrvDOW6): I help you create simple, elegant logos.[ \(...\)](support/desc/LGCrvDOW6.md)
 
+- [Realistic People GPT: Portrait Photography](https://chat.openai.com/g/g-U6OybyO3h): Generates realistic human portraits using DALL-E 3 to replicate photos of people. Keep prompts simple and direct for best results.[ \(...\)](support/desc/U6OybyO3h.md)
+
 
 
 ## 📝 Writing
