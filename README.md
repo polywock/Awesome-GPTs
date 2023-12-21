@@ -2,6 +2,7 @@
 A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 ## [Table of Contents](#categories)
+My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfbafobniilmhphjccnnemkolgkfk) to view GPT popularity
 ## 🧠 Productivity
 - [TL;DR](https://chat.openai.com/g/g-XrwZyE9OZ): Enter any URL and have the text content summarized for you\![ \(...\)](support/desc/XrwZyE9OZ.md)
 
