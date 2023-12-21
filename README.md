@@ -712,7 +712,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [disclosuregpt](https://chat.openai.com/g/g-4mfObcph1): Expert in real estate disclosures analysis.[ \(...\)](support/desc/4mfObcph1.md)
 
-- [JuriPro Legal Advisor](https://chat.openai.com/g/g-N5F1O0WXD): [ \(...\)](support/desc/N5F1O0WXD.md)
+- [JuriPro Legal Advisor](https://chat.openai.com/g/g-N5F1O0WXD): Comprehensive legal assistant with notice drafting and law references.[ \(...\)](support/desc/N5F1O0WXD.md)
 
 
 
