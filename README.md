@@ -83,6 +83,10 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 
 - [AI Book Assistan PRO 1.04 \(Beta\)](https://chat.openai.com/g/g-MZjGbYu3X): AI book writer helper it will guide through each step on writing your new best seller while having fun\![ \(...\)](support/desc/MZjGbYu3X.md)
 
+- [WMP | AI Write My Paragraph Bot 🤖🔥](https://chat.openai.com/g/g-5esTcGXvI): AI Paragraph Writer Bot | Creating High-Quality Paragraphs | Academic Essays | Professional Documents | Creative Writing | Personal Projects[ \(...\)](support/desc/5esTcGXvI.md)
+
+- [AEG | AI Essay Grader 🤖💬](https://chat.openai.com/g/g-17T2Ms24W): AI Essay Grader Help For Your Essay | Plagiarism | Structure | Grade Prediction | Essay Improvements[ \(...\)](support/desc/17T2Ms24W.md)
+
 
 
 ## 🖌️ Writing Stylize
@@ -706,6 +710,8 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 - [EconomicsGPT](https://chat.openai.com/g/g-7McsRKuPS): Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.[ \(...\)](support/desc/7McsRKuPS.md)
 
 - [disclosuregpt](https://chat.openai.com/g/g-4mfObcph1): Expert in real estate disclosures analysis.[ \(...\)](support/desc/4mfObcph1.md)
+
+- [JuriPro Legal Advisor](https://chat.openai.com/g/g-N5F1O0WXD): [ \(...\)](support/desc/N5F1O0WXD.md)
 
 
 
