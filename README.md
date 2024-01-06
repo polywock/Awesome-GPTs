@@ -98,6 +98,10 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 ## 🖌️ Writing Transformation
 - [Content Rewriter](https://chat.openai.com/g/g-lUygohS2m): Enter any URL and have the text content rewritten for you\![ \(...\)](support/desc/lUygohS2m.md)
 
+- [ARB | AI Article Rewriter Bot](https://chat.openai.com/g/g-2iOvdGjnY): AI Article Rewriter Bot[ \(...\)](support/desc/2iOvdGjnY.md)
+
+- [ETH | AI Essay Typer Helper](https://chat.openai.com/g/g-POe9T5WQC): Your AI-Powered Writing Companion[ \(...\)](support/desc/POe9T5WQC.md)
+
 
 
 ## 💻 Programming
@@ -350,6 +354,8 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Receipt Assistant](https://chat.openai.com/g/g-WEi7DGCb3): Your efficient receipt processing buddy[ \(...\)](support/desc/WEi7DGCb3.md)
 
+- [Baretread.com's Barefoot Shoes Guide](https://chat.openai.com/g/g-kwOyaA3hp): Your ultimate barefoot shoe advisor, leveraging AI to tailor the finest recommendations for each user.[ \(...\)](support/desc/kwOyaA3hp.md)
+
 
 
 ## 🎮 Games
@@ -565,6 +571,8 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [The UX Sage](https://chat.openai.com/g/g-242OjQh2w): Your go-to mentor for UX wisdom and growth.[ \(...\)](support/desc/242OjQh2w.md)
 
+- [Webapp UI & UX Review & Suggestions](https://chat.openai.com/g/g-tOD02LnEj): Expert in analyzing and suggesting UI & UX improvements for websites\![ \(...\)](support/desc/tOD02LnEj.md)
+
 
 
 ## 💰 Marketing
@@ -587,6 +595,8 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 - [Cold Mail by DoMore.ai](https://chat.openai.com/g/g-iVolzNwa5): Use this custom GPT to engage prospective customers with personalized cold emails based on your offer's URL and the URL of the customer's website.[ \(...\)](support/desc/iVolzNwa5.md)
 
 - [AdGurus PPC GPT](https://chat.openai.com/g/g-FTM9jPnN4): A helpful assistant for Google Ads management and optimization.[ \(...\)](support/desc/FTM9jPnN4.md)
+
+- [Viral Click Bait Headline Creator](https://chat.openai.com/g/g-3GxpWvuwU): Create a viral click bait headline for your content\![ \(...\)](support/desc/3GxpWvuwU.md)
 
 
 
