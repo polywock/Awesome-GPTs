@@ -147,6 +147,10 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Ninja Developer](https://chat.openai.com/g/g-QSZYwvjRj): Multilingual code ninja, silently perfecting and imparting code craft.[ \(...\)](support/desc/QSZYwvjRj.md)
 
+- [codekill v1.0](https://chat.openai.com/g/g-F5gAart6H): pro[ \(...\)](support/desc/F5gAart6H.md)
+
+- [AskYourCode](https://chat.openai.com/g/g-bMpHsDTtP): Indexes your project's source code and provides code maps, summaries and code fragments as required by the conversation. - Start by entering the URL of a GitHub repository or a downloadable source archive (zip or tar.gz) you want to discuss.[ \(...\)](support/desc/bMpHsDTtP.md)
+
 
 [Show more...](support/more/coding.md)
 
@@ -397,6 +401,8 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Code Medica](https://chat.openai.com/g/g-zVSzSYcu9): I'm your Medical AI research partner[ \(...\)](support/desc/zVSzSYcu9.md)
 
+- [ID My Pill](https://chat.openai.com/g/g-LXZ1f4L5x): Expert in identifying U.S. prescription pills from photos or descriptions.[ \(...\)](support/desc/LXZ1f4L5x.md)
+
 
 
 ## 📰 News
@@ -538,6 +544,8 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 - [GPT Enhancer](https://chat.openai.com/g/g-fQ6GAANfi): AI assistant for refining GPT instructions with a focus on user experience and continuous AI learning.[ \(...\)](support/desc/fQ6GAANfi.md)
 
 - [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l): A prompt engineering teacher[ \(...\)](support/desc/qfoOICq1l.md)
+
+- [GPT Builder](https://chat.openai.com/g/g-kY9sadeD5): Generates ideas for creating GPTs on popular topics[ \(...\)](support/desc/kY9sadeD5.md)
 
 
 
