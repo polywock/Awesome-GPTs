@@ -127,7 +127,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Python Tutor](https://chat.openai.com/g/g-uY1Ec6U1T): A Python tutor creating stepwise coding challenges. [\(...\)](support/desc/uY1Ec6U1T.md)
 
-- [Regex Assistant by Whitebox](https://chat.openai.com/g/g-kftiI07yn): A GPT specialist for regex commands – the ultimate tool for pattern matching and data extraction. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT [\(...\)](support/desc/kftiI07yn.md)
+- [Regex Assistant by Whitebox](https://chat.openai.com/g/g-kftiI07yn): A GPT specialist for regex commands - the ultimate tool for pattern matching and data extraction. [\(...\)](support/desc/kftiI07yn.md)
 
 - [Firebase GPT by Whitebox](https://chat.openai.com/g/g-1PHZ3Y82z): Firebase made easy. Maintained by Whitebox at https://github.com/Decron/Whitebox-Code-GPT [\(...\)](support/desc/1PHZ3Y82z.md)
 
@@ -137,7 +137,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Rustor](https://chat.openai.com/g/g-IAufDuAeW): I teach Rust with examples and humor.
 
-- [AskYourCode](https://chat.openai.com/g/g-bMpHsDTtP): Indexes your project's source code and provides code maps, summaries and code fragments as required by the conversation. - Start by entering the URL of a GitHub repository or a downloadable source archive (zip or tar.gz) you want to discuss. [\(...\)](support/desc/bMpHsDTtP.md)
+- [AskYourCode](https://chat.openai.com/g/g-bMpHsDTtP): Indexes your project's source code and provides code maps, summaries and code fragments as required by the conversation. [\(...\)](support/desc/bMpHsDTtP.md)
 
 - [𝚌𝚘𝚍𝚎kill v1.0](https://chat.openai.com/g/g-F5gAart6H): pro [\(...\)](support/desc/F5gAart6H.md)
 
@@ -288,11 +288,11 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 ## 🧘‍♀️ Mental Wellness
 - [LifeOS](https://chat.openai.com/g/g-Lmt2TBepG): Body. Mind. Soul. [\(...\)](support/desc/Lmt2TBepG.md)
 
-- [TherapyAI](https://chat.openai.com/g/g-8yHB0UD8j): As a compassionate, non-licensed mental health advisor, this AI offers empathetic listening, personalized guidance, and insights into behavioral patterns. To optimize support, it's recommended to continue conversations in the same chat session and utilize voice interaction when available. [\(...\)](support/desc/8yHB0UD8j.md)
+- [TherapyAI](https://chat.openai.com/g/g-8yHB0UD8j): As a compassionate, non-licensed mental health advisor, this AI offers empathetic listening, personalized guidance, and insights into behavioral patterns. [\(...\)](support/desc/8yHB0UD8j.md)
 
 - [The Stoic Council](https://chat.openai.com/g/g-OjydyOs4O): Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus [\(...\)](support/desc/OjydyOs4O.md)
 
-- [Anxiety Coach ❤️‍🔥](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice. [\(...\)](support/desc/DFVXMwXTh.md)
+- [Anxiety Coach](https://chat.openai.com/g/g-DFVXMwXTh): Recognize, manage, cope. Works well with GPT-Voice. [\(...\)](support/desc/DFVXMwXTh.md)
 
 - [Pocket Meditations](https://chat.openai.com/g/g-0AZyQVlhT): Delivers Stoic wisdom inspired by Marcus Aurelius. [\(...\)](support/desc/0AZyQVlhT.md)
 
@@ -371,7 +371,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Character Oracle](https://chat.openai.com/g/g-aDHHdHNeT): A game that guesses characters by questions. [\(...\)](support/desc/aDHHdHNeT.md)
 
-- [EvoTactics poké-AI](https://chat.openai.com/g/g-9IwkwL5LU): join evotactics poké-ai for a journey of discovery 🤝 and fun in the creature battle game universe, with a touch of humor in every detail! 🌟 🌈 expert strategies, trivia, and humor - all in one place! 🎉 🌟🎮🎴 [\(...\)](support/desc/9IwkwL5LU.md)
+- [EvoTactics poké-AI](https://chat.openai.com/g/g-9IwkwL5LU): join evotactics poké-ai for a journey of discovery and fun in the creature battle game universe. [\(...\)](support/desc/9IwkwL5LU.md)
 
 - [Cyber Seeker](https://chat.openai.com/g/g-ULaaKDrNk): I'm a GPT-guided scavenger hunt!
 
@@ -417,7 +417,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 ## 🏀 Sports
 - [Olyup](https://chat.openai.com/g/g-JlDoaXFrU): Your AI Sports Scientist to help you level up your game - in and off the field [\(...\)](support/desc/JlDoaXFrU.md)
 
-- [GOATed](https://chat.openai.com/g/g-ISZ70EjMI): The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾 [\(...\)](support/desc/ISZ70EjMI.md)
+- [GOATed](https://chat.openai.com/g/g-ISZ70EjMI): The ultimate GOAT debate [\(...\)](support/desc/ISZ70EjMI.md)
 
 - [Home Plate Analyst](https://chat.openai.com/g/g-PUXuDeMcO): Baseball expert and analyst. [\(...\)](support/desc/PUXuDeMcO.md)
 
@@ -448,9 +448,9 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 
 ## 🛠️ Tools
-- [Ai PDF](https://chat.openai.com/g/g-V2KIUZSj0): Ai PDF GPT (Top PDF GPT), handles PDF documents of up to 2GB PER FILE, upload 1000s of PDF on myaidrive.com for free. It eliminates the need for repeated file uploads. PRO version can search across 1000s of PDFs, OCR documents and use AI to extract authors, title and more! [\(...\)](support/desc/V2KIUZSj0.md)
+- [Ai PDF](https://chat.openai.com/g/g-V2KIUZSj0): Handles PDF documents of up to 2GB PER FILE, upload 1000s of PDF on myaidrive.com for free. [\(...\)](support/desc/V2KIUZSj0.md)
 
-- [AskYourPDF Research Assistant](https://chat.openai.com/g/g-UfFxTDMxq): Automate your research with AI,  Chat multiple files (Unlimited PDFs), Generate articles/essays with valid citations, ChatPDF,  Analyse and generate references for  papers, create and interact with a knowledge base of your files and much more using AskYourPDF [\(...\)](support/desc/UfFxTDMxq.md)
+- [AskYourPDF Research Assistant](https://chat.openai.com/g/g-UfFxTDMxq): Create and interact with a knowledge base of your files and much more using AskYourPDF [\(...\)](support/desc/UfFxTDMxq.md)
 
 - [Doc Maker](https://chat.openai.com/g/g-Gt6Z8pqWF): Prompt to create documents, such as resumes, reports, and more. Export to PDF, DOCX, PPTX, XLSX, CSV. [\(...\)](support/desc/Gt6Z8pqWF.md)
 
@@ -513,7 +513,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l): I know everything about Prompt Engineering. What do you want to know about prompt? [\(...\)](support/desc/qfoOICq1l.md)
 
-- [Prompt Reverse Engineer 2.2 BETA](https://chat.openai.com/g/g-yD4laGVCL): Reverse engineer any GPT prompts from links that provide a title, ad copy, example input/output of a desired prompt - feedback u/ThePromptfather. Update - KNITWEAR EASTER EGG [\(...\)](support/desc/yD4laGVCL.md)
+- [Prompt Reverse Engineer 2.2 BETA](https://chat.openai.com/g/g-yD4laGVCL): Reverse engineer any GPT prompts from links that provide a title, ad copy, example input/output of a desired prompt. [\(...\)](support/desc/yD4laGVCL.md)
 
 - [GPT Cookbook Assistant](https://chat.openai.com/g/g-0CJGM4hMw): Enhanced with OpenAI API reference documentation and guides [\(...\)](support/desc/0CJGM4hMw.md)
 
@@ -590,7 +590,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Sales Assistant GPT](https://chat.openai.com/g/g-CS0BEb5pJ): I'm here to help sales people position value to customers!  Tell me about your product and service, who are are selling to, and what we need to do! [\(...\)](support/desc/CS0BEb5pJ.md)
 
-- [Seabiscuit Sales Strategist](https://chat.openai.com/g/g-lH8uHybvQ): Thrive While Others Only Survive: Sales Strategist is designed to identify the most suitable business model for your company, refine your sales methodology, and provide tailored resources and suggestions to enhance your business's sales effectiveness. (v1.7) [\(...\)](support/desc/lH8uHybvQ.md)
+- [Seabiscuit Sales Strategist](https://chat.openai.com/g/g-lH8uHybvQ): Thrive While Others Only Survive [\(...\)](support/desc/lH8uHybvQ.md)
 
 
 
@@ -601,7 +601,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [SEO Mentor](https://chat.openai.com/g/g-QqvewXqPt): SEO mentor aligned with Google's best practices [\(...\)](support/desc/QqvewXqPt.md)
 
-- [SEObot](https://chat.openai.com/g/g-BfmuJziwz): SEObot - fully autonomous "SEO Robot" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website. [\(...\)](support/desc/BfmuJziwz.md)
+- [SEObot](https://chat.openai.com/g/g-BfmuJziwz): Fully autonomous "SEO Robot" with AI agents for Busy Founders. [\(...\)](support/desc/BfmuJziwz.md)
 
 
 
@@ -623,7 +623,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 ## 🏢 Business
 - [Business Plan Builder](https://chat.openai.com/g/g-B7m98jiyn): Assists with creating a business plan [\(...\)](support/desc/B7m98jiyn.md)
 
-- [Seabiscuit Business Model Master](https://chat.openai.com/g/g-nsTplEvN8): Discover A More Robust Business: Craft tailored value proposition statements, develop a comprehensive business model canvas, conduct detailed PESTLE analysis, and gain strategic insights on enhancing business model elements like scalability, cost structure, and market competition strategies. (v1.18) [\(...\)](support/desc/nsTplEvN8.md)
+- [Seabiscuit Business Model Master](https://chat.openai.com/g/g-nsTplEvN8): Discover A More Robust Business [\(...\)](support/desc/nsTplEvN8.md)
 
 - [Product Hunt Launch Builder](https://chat.openai.com/g/g-9jhKjW8vF): Expert at crafting Product Hunt launch posts. [\(...\)](support/desc/9jhKjW8vF.md)
 
