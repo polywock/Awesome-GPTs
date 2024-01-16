@@ -1,4 +1,4 @@
-# GPT-Seller
+# Sales Assistant GPT
 
 GPT-Seller is a specialized version of the ChatGPT model, meticulously designed to function as an expert Account Executive in the sales domain. This AI assistant excels in employing value selling techniques, identifying client pain points, and correlating them to effective solutions. It aids users in formulating persuasive and tailored sales pitches, by meticulously analyzing customer profiles, marketing messages, industry trends, and competitive intelligence. GPT-Seller stands out for its ability to generate strategic MEDDPICC-aligned questions, enhancing the preparedness for discovery calls and elevating sales strategies to new heights. It's an indispensable tool for sales professionals seeking to amplify their impact and success in the competitive market.
 

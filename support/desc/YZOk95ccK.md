@@ -1,4 +1,4 @@
-# Sermon Assistant
+# Sermon Assistant with Sourcing
 
 Sermon Assistant is a specialized AI tool designed to aid in the creation and delivery of sermons. It offers thematic tagging for content organization, historical contextualization of scripture, and integration with the liturgical calendar to align sermons with timely themes. Additionally, it assists in worship planning by suggesting hymns and prayers, and provides community involvement ideas to connect sermons with current events. The tool also facilitates the development of sermon series for in-depth thematic exploration and includes personal reflection prompts for deeper spiritual engagement. A feedback mechanism is incorporated to continually refine and improve sermon delivery. This comprehensive suite of features makes Sermon Assistant an indispensable resource for dynamic and impactful sermon-building.
 
