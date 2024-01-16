@@ -4,15 +4,15 @@ A collection of awesome GPTs. *(Feel free to suggest yours through a new Issue)*
 ## [Table of Contents](#categories)
 My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfbafobniilmhphjccnnemkolgkfk) to view GPT popularity
 ## 🧠 Productivity
-- [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y): Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima. GPTavern [\(...\)](support/desc/lzbeEOr9Y.md)
+- [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y): Step by Step task manager that automatically saves memory to a .txt file. [\(...\)](support/desc/lzbeEOr9Y.md)
 
 - [Breakdown: Outline Any Topic](https://chat.openai.com/g/g-bWpihiZ0d): Breaks down any topic into subtopics [\(...\)](support/desc/bWpihiZ0d.md)
 
-- [FastGPT ⚡](https://chat.openai.com/g/g-VnlKc5BQK): I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle. Use "?" or "???" by itself for longer responses. [\(...\)](support/desc/VnlKc5BQK.md)
+- [FastGPT](https://chat.openai.com/g/g-VnlKc5BQK): I'm FastGPT. Faster than any other GPT. Just like ChatGPT but without the waffle. [\(...\)](support/desc/VnlKc5BQK.md)
 
 - [OCR](https://chat.openai.com/g/g-wETMBcESv): Extract text and content from images or PDF documents [\(...\)](support/desc/wETMBcESv.md)
 
-- [Presentation Architect](https://chat.openai.com/g/g-gnM4CjCZz): PPT Expert in crafting stunning, detailed PowerPoint presentations, from research to final product. I'm your go-to for #PowerPointPerfection, turning in-depth research into visually striking presentations. #PPTExpert #DesignWizard [\(...\)](support/desc/gnM4CjCZz.md)
+- [Presentation Architect](https://chat.openai.com/g/g-gnM4CjCZz): PPT Expert in crafting stunning, detailed PowerPoint presentations, from research to final product. [\(...\)](support/desc/gnM4CjCZz.md)
 
 - [shownotes](https://chat.openai.com/g/g-gNH4K4Egg): Transcribe audio files and YouTube, summarize audio, search Apple Podcasts. Enhanced search efficiency. [\(...\)](support/desc/gNH4K4Egg.md)
 
