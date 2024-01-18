@@ -25,7 +25,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 - [Explain Like](https://chat.openai.com/g/g-iZjUkXNxg): Any topic explained as if you're a genius, programmer, meme-lord etc. [\(...\)](support/desc/iZjUkXNxg.md) 📈 <i>200+</i>
 
 - [Summary Sage with tags](https://chat.openai.com/g/g-UV2FOzD60): Expert in summarizing and categorizing [\(...\)](support/desc/UV2FOzD60.md) 📈 <i>100+</i>
-
+- [ProductivityGPTs](https://chat.openai.com/g/g-uDglrkYGg-productivity): Your go-to guide for boosting productivity.
 
 
 ## 🖼️ Dall-E
