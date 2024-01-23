@@ -157,6 +157,7 @@ My Chrome [extension](https://chrome.google.com/webstore/detail/gpt-stats/jijnfb
 
 - [Explain Like I'm Five](https://chat.openai.com/g/g-Hgllfxt9j): I make complex ideas simple and fun, like for a 5-year-old! [\(...\)](support/desc/Hgllfxt9j.md) 📈 <i>90+</i>
 
+- [AI Career Guide](https://chat.openai.com/g/g-ItKCW4k6x): AI-field Career Advisor based on Andrew Ng's book. [\(...\)](support/desc/ItKCW4k6x.md) 📈 <i>20+</i>
 
 
 ## 📕 Research
