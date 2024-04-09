@@ -1,0 +1,5 @@
+# Developer Doc Search
+
+Developer Doc Search is a specialized GPT designed to enhance the efficiency of software development and research. Primarily focusing on JavaScript and Python, this GPT aids developers in discovering and understanding packages from NPM and PyPI. With its unique capability to search for packages, retrieve detailed package metadata, and delve into GitHub repositories, it simplifies the task of exploring and analyzing code and documentation. Whether you're looking for package recommendations, need insights into specific packages, or wish to navigate through GitHub documentation, Developer Doc Search streamlines these processes, making it a valuable tool for developers seeking to optimize their workflow and code understanding.
+
+[Start using](https://chat.openai.com/g/g-AINygIiYy)

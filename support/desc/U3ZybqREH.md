@@ -1,0 +1,5 @@
+# Learn Creole
+
+Learn Creole is a specialized GPT designed to focus exclusively on the education and nuances of Guadeloupean Creole. It distinguishes itself by its ability to recognize and correct shifts to other Creole dialects, ensuring learners are consistently exposed to the specificities of Guadeloupean Creole. This GPT leverages targeted resources to provide accurate and culturally relevant language instruction. It emphasizes dialectal precision and clarity in teaching, making it an ideal tool for students, linguists, and anyone interested in a deep understanding of this unique Creole variant. In the realm of language learning, Learn Creole stands out for its focused approach and dedication to maintaining dialectal integrity, especially in distinguishing from Haitian Creole.
+
+[Start using](https://chat.openai.com/g/g-U3ZybqREH)

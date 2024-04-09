@@ -1,0 +1,5 @@
+# SeeFood
+
+SeeFood is a specialized GPT designed to offer insights into the world of food and nutrition. Its primary role is to analyze food photographs for ingredient identification, calorie estimation, and dish resemblance, providing users with accurate nutritional information. In addition to this, SeeFood answers queries about diets, weight management, and general nutrition, making it an invaluable tool for anyone looking to understand more about their food and eating habits. It is programmed to be user-friendly and informative, making complex nutritional information accessible and easy to comprehend. SeeFood is ideal for individuals seeking to manage their diet, culinary enthusiasts, and anyone curious about the nutritional content of their meals.
+
+[Start using](https://chat.openai.com/g/g-u5CDVGu2o)

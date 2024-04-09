@@ -1,0 +1,5 @@
+# Gif-PT
+
+Gif-PT is a highly specialized ChatGPT variant designed for generating and refining animated sprite sheets and GIFs. Tailored for both game developers and animation enthusiasts, it transforms user requests into in-game sprites, sprite sheet animations, and continuous animated sequences. Gif-PT excels in drawing objects multiple times with slight variations, creating 16-frame animation layouts in a 4x4 grid format. It also possesses unique capabilities to debug and adjust sprite sheets, ensuring smooth and cohesive animations. After creating or modifying a sprite sheet, Gif-PT skillfully codes to slice the sheet into frames and compile them into a downloadable GIF, offering users a seamless experience from conception to final animation.
+
+[Start using](https://chat.openai.com/g/g-gbjSvXu6i)

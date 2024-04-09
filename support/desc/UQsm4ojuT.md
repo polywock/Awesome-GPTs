@@ -1,0 +1,5 @@
+# Reverse Engineer Icons - ThePromptfather
+
+Reverse Engineer Icons - ThePromptfather is a unique GPT tailored for graphic designers and creatives, especially those focusing on iconography. This GPT excels in analyzing and reverse-engineering icon designs, providing detailed prompts for OpenAI's DALL-E to recreate or refine these icons. It's an invaluable tool for those needing to generate consistent, high-quality icon sets for various applications, including app development, web design, and digital media. Its expertise lies in dissecting visual elements, styles, and themes, and then crafting prompts that capture the essence of the original design while incorporating user-specified modifications. This blend of precision and creativity makes it a go-to resource for enhancing productivity in graphic design projects.
+
+[Start using](https://chat.openai.com/g/g-UQsm4ojuT)

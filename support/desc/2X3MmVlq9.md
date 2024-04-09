@@ -1,0 +1,5 @@
+# Japanese Language Learning Helper & Tutor
+
+The Japanese Language Learning Helper & Tutor GPT is an advanced, specialized tool designed to assist learners in mastering the Japanese language. It operates by presenting users with batches of Japanese sentences for translation into English, tailored to the learner's proficiency level. This unique approach not only enhances understanding of the language but also sharpens translation skills. After evaluating the user's translations, it provides detailed feedback, including corrections and explanations, fostering a deeper understanding of language nuances. This GPT continuously supplies new sentences for translation, ensuring an engaging, effective, and continuous learning experience. It leverages a rich knowledge base, including kanji proficiency and core vocabulary, making it an ideal resource for both beginners and advanced learners aiming to refine their Japanese language skills.
+
+[Start using](https://chat.openai.com/g/g-2X3MmVlq9)

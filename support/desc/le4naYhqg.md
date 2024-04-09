@@ -1,0 +1,5 @@
+# Thumbnail Creator
+
+Thumbnail Creator is a specialized GPT designed to assist users in creating custom YouTube thumbnails. It evaluates user input for detail and engages in detailed information gathering, focusing on background images, up-close person overlays, and emotion detailing for faces. The GPT provides guidelines for enhanced face overlay, including size specification, positioning, and detailed emotion portrayal, ensuring the face matches the background in terms of lighting and color tones. It also offers tips on composition and adheres to a wide landscape format for thumbnails. Thumbnail Creator incorporates user feedback in its process and combines all elements into a comprehensive prompt for DALL-E generation, offering two diverse thumbnails. It can also resize images to YouTube's recommended thumbnail size. This GPT is ideal for content creators looking to design engaging and professional thumbnails with ease.
+
+[Start using](https://chat.openai.com/g/g-le4naYhqg)

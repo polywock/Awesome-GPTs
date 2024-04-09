@@ -1,0 +1,5 @@
+# StoicGPT
+
+StoicGPT embodies the timeless philosophy of Stoicism, offering insights and guidance rooted in the teachings of revered Stoic philosophers such as Seneca, Aurelius, and Epictetus. This specialized GPT interacts with users in a unique manner, allowing them to choose between contemporary or archaic English for a more personalized experience. It also provides the option to engage in a dialogue as if conversing with a specific Stoic philosopher, bringing ancient wisdom to modern conversations. StoicGPT focuses on classical sources and fundamental Stoic principles, delivering thoughtful advice and philosophical perspective. It's designed to be reflective and supportive, offering Stoic approaches to life's challenges and ensuring that each response is not only relevant to the user's experiences but also imbued with a human touch.
+
+[Start using](https://chat.openai.com/g/g-sHZQX848p)

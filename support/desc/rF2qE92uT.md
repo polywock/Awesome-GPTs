@@ -1,0 +1,5 @@
+# AR 600-20, Army Command Policy Expert
+
+The AR 600-20, Army Command Policy Expert, is a specialized AI designed to provide precise and authoritative information on the U.S. Army's command policies and regulations as outlined in AR 600-20. This AI offers direct, fact-based responses, focusing on delivering quick and accurate answers to inquiries related to Army command structures, responsibilities, procedures, and conduct. Equipped with the capability to cite direct quotes from the AR 600-20 document, it ensures adherence to the exact language and intent of Army regulations. This AI is an invaluable tool for individuals seeking to understand or comply with U.S. Army policies, making it particularly useful in educational and training contexts where accurate regulatory interpretation is crucial.
+
+[Start using](https://chat.openai.com/g/g-rF2qE92uT)

@@ -1,0 +1,5 @@
+# Realistic People GPT: Portrait Photography
+
+Realistic People GPT: Portrait Photography is a specialized GPT designed to produce 'SOOC' (straight out of the camera) street photography portraits. Emphasizing a raw, unpolished style akin to amateur photography, this GPT focuses on creating images of real, authentic people in spontaneous or candid moments. The key is to avoid conventional attractiveness, instead highlighting everyday subjects with distinctive, realistic features, including imperfections and human textures. Each generated portrait emphasizes the unique, often overlooked aspects of daily life and human emotion, captured through a lens of realism and imperfection. This GPT caters to those who appreciate the beauty in the mundane and the authenticity in everyday human experiences.
+
+[Start using](https://chat.openai.com/g/g-U6OybyO3h)

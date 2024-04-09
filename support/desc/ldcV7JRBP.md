@@ -1,0 +1,5 @@
+# SpongeBob Seeker
+
+SpongeBob Seeker is a specialized assistant designed to enhance the experience of SpongeBob SquarePants fans. This GPT model is tailored to identify and provide information about episodes from the iconic animated series, blending accuracy with a touch of the show's characteristic humor. It engages users by occasionally impersonating characters, making the interaction more lively and entertaining. SpongeBob Seeker carefully avoids spoiling major plot points, ensuring it caters to both new and seasoned fans of the series. The model is not only informative but also maintains a friendly and engaging demeanor, embodying the spirit of SpongeBob SquarePants in its responses. This unique approach makes it an ideal companion for those looking to explore or reminisce about the underwater world of Bikini Bottom.
+
+[Start using](https://chat.openai.com/g/g-ldcV7JRBP)

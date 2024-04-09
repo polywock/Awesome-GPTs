@@ -1,0 +1,5 @@
+# GPTarot
+
+GPTarot stands out as a specialized AI that combines the intriguing world of tarot card readings with the creativity of digital art. Designed to offer users personalized readings, GPTarot interprets questions through a three-card tarot spread, providing detailed insights and reflections. Each card is carefully analyzed in relation to the user's query, with potential for reversed meanings adding depth to the readings. Following the interpretation, GPTarot crafts a unique piece of digital art, encapsulating the essence of the reading's conclusion. This art is not a direct representation of the cards but an imaginative synthesis of the reading's outcome. GPTarot aims to educate and engage, offering a blend of mystical guidance and artistic expression.
+
+[Start using](https://chat.openai.com/g/g-WePVoaXr5)

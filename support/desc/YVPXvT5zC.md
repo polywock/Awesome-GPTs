@@ -1,0 +1,5 @@
+# Image Generation with Selfcritique & Improvement
+
+Image Generation with Selfcritique & Improvement is a specialized GPT model designed to elevate the process of image creation. It uniquely combines the capabilities of generating images from textual descriptions with a critical eye for continuous improvement. Upon receiving a user's prompt, it not only creates an initial image but also engages in a systematic self-critique and refinement process. This loop of generation, critique, and enhancement is repeated multiple times, aiming to progressively refine the output. The model is tailored for users seeking a blend of creative visualization and iterative perfection, making it an invaluable tool for designers, artists, and anyone in need of visually translating ideas into improved digital images.
+
+[Start using](https://chat.openai.com/g/g-YVPXvT5zC)

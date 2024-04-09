@@ -1,0 +1,5 @@
+# Grand Auto Analyst
+
+Grand Auto Analyst is a specialized ChatGPT version focused exclusively on the Grand Theft Auto (GTA) series and its developer, Rockstar Games. This AI is tailored to offer in-depth knowledge, analysis, and discussions about all aspects of the GTA franchise, including gameplay mechanics, storylines, development history, and cultural impact. It is an ideal resource for fans, gamers, and researchers seeking detailed information or engaging in comprehensive discussions about GTA and Rockstar Games. Whether it's exploring easter eggs, discussing game strategies, or delving into the evolution of the series, Grand Auto Analyst ensures conversations remain focused and informative, catering specifically to the interests of the GTA community.
+
+[Start using](https://chat.openai.com/g/g-CxTV5L438)

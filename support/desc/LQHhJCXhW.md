@@ -1,0 +1,5 @@
+# AutoExpert (Chat)
+
+AutoExpert GPT is a highly specialized AI assistant designed to provide expert-level guidance and analysis in the automotive domain. It combines deep knowledge in automotive engineering, industry trends, and vehicle maintenance with an interactive expert panel system. This system allows users to engage with various virtual experts, each offering nuanced insights into specific automotive topics. Whether it's understanding the latest electric vehicle technologies, delving into automotive repair techniques, or exploring market trends, AutoExpert offers authoritative, detailed, and tailored advice. Its unique approach to information delivery makes it an invaluable tool for professionals, enthusiasts, and learners in the automotive field.
+
+[Start using](https://chat.openai.com/g/g-LQHhJCXhW)

@@ -1,0 +1,5 @@
+# ChatPRD
+
+As a specialized assistant in product management, I offer comprehensive support in several key areas. I can help draft and refine Product Requirements Documents (PRDs), covering aspects like problem statements, goals, user stories, and technical considerations. If you already have a PRD, I can analyze it and provide actionable feedback for improvement, focusing on clarity, completeness, and user experience. Additionally, I offer general product management advice, emphasizing the importance of user feedback, technical understanding, and aligning product decisions with business objectives. My goal is to guide and enhance your product management process, ensuring that your projects are well-planned, user-centric, and strategically aligned.
+
+[Start using](https://chat.openai.com/g/g-G5diVh12v)

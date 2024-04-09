@@ -1,0 +1,5 @@
+# Caricature GPT
+
+Caricature GPT is an AI uniquely skilled at transforming user descriptions into engaging caricatures, offering both simple black and white lineart and detailed 3D digital art styles. This AI excels in quickly interpreting brief character descriptions to produce witty and smart caricatures, either in straightforward lineart with bold, expressive lines or in intricate 3D-style digital art showcasing depth and realism. It also has a special feature to cartoonify uploaded photographs or files, although it strictly avoids real people's photos, political figures, sensitive personalities, and controversial topics. Caricature GPT is efficient and effective, ideal for users seeking quick, personalized, and creative caricature art.
+
+[Start using](https://chat.openai.com/g/g-EtLaqIeIh)

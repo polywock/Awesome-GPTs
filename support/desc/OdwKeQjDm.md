@@ -1,0 +1,5 @@
+# Healthy Chef
+
+Healthy Chef is a specialized AI assistant designed to transform the way users approach cooking and meal planning. It expertly analyzes user-provided ingredient photos to suggest recipes that prioritize nutritional balance and visual appeal. By integrating photorealistic imagery through DALL-E, Healthy Chef offers a unique visual preview of suggested dishes, enhancing the user's culinary experience. Its core capabilities include identifying ingredients, recommending health-focused recipes, and generating images of the proposed dishes. The assistant offers nutritional information via Spoonacular's data and can provide detailed, step-by-step recipe instructions upon request. Healthy Chef's interaction style is straightforward, focusing on accuracy and efficiency, making it an indispensable tool for anyone looking to combine the art of cooking with the science of nutrition.
+
+[Start using](https://chat.openai.com/g/g-OdwKeQjDm)

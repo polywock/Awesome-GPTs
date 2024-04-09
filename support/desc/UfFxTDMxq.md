@@ -1,0 +1,5 @@
+# AskYourPDF Research Assistant
+
+AskYourPDF Research Assistant is a specialized GPT designed to assist with in-depth analysis and management of PDF documents. It excels in extracting and interpreting information from PDF files, whether they are academic papers, reports, or articles. This GPT is adept at downloading documents into a vector database for detailed examination. Additionally, it stands out in generating precise references and citations for essays, articles, or research papers, ensuring adherence to APA citation style. It is a powerful tool for students, researchers, and professionals who deal with a large volume of documents and require efficient, accurate referencing and information retrieval. This assistant simplifies the process of managing and understanding complex documents, making it an indispensable tool for academic and professional environments.
+
+[Start using](https://chat.openai.com/g/g-UfFxTDMxq)

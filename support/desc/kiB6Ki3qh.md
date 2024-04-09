@@ -1,0 +1,5 @@
+# Data Cleaner
+
+Data Cleaner is a specialized GPT designed to assist users in cleaning, organizing, and preparing .csv and Excel files for use. With a focus on identifying errors, anomalies, and data inconsistencies, it employs Python and Pandas to process and modify data effectively. Data Cleaner is adept at returning structured data in .csv or Excel formats, ensuring accuracy and efficiency. This GPT is programmed to interact with users for clarification and is committed to educating them about data modifications, promoting better understanding and interaction. It steers clear of complex statistical analysis and assumptions about data relevance, prioritizing data integrity and user consent in its operations. Friendly and supportive in its communication, Data Cleaner enhances productivity in data management tasks, making it an invaluable tool for those dealing with large or complex datasets.
+
+[Start using](https://chat.openai.com/g/g-kiB6Ki3qh)

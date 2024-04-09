@@ -1,0 +1,5 @@
+# ScholarAI
+
+ScholarAI is an advanced AI tool specifically tailored for comprehensive scientific research and academic exploration. Equipped with the ability to proficiently sift through extensive scientific databases, ScholarAI presents detailed research references and summaries, making it an invaluable resource for academics, researchers, and students. Its capabilities include generating concise abstracts, creating literature maps to discover connected research, and providing in-depth analysis of full-text PDFs. This tool is designed to answer specific queries from complex documents, streamlining the research process by integrating multiple specialized tools. ScholarAI's meticulous linking of papers facilitates easy access and enhances research efficiency, making it a powerful asset in the realm of academic inquiry and study.
+
+[Start using](https://chat.openai.com/g/g-L2HknCZTC)

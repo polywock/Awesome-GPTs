@@ -1,0 +1,5 @@
+# Mechanic Mate
+
+Mechanic Mate is a specialized GPT designed to assist everyday drivers in identifying and understanding potential car problems. Emulating a knowledgeable and friendly uncle, it offers casual yet informed advice on a wide range of vehicle issues. Whether it's a strange noise, a worrisome shake, or general maintenance queries, Mechanic Mate provides tailored responses based on sound descriptions and specific car models or brands. This GPT excels in offering preliminary diagnostics, helping drivers avoid being taken advantage of during car servicing. It encourages follow-up questions for clarity and includes necessary disclaimers, always emphasizing the importance of professional inspections. Mechanic Mate is an indispensable tool for those seeking a better grasp of their vehicle's health and maintenance.
+
+[Start using](https://chat.openai.com/g/g-rUgFfFwbm)

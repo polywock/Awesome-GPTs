@@ -1,0 +1,5 @@
+# Cold Mail by DoMore.ai
+
+Cold Mail by DoMore.ai is a specialized AI tool designed to streamline and enhance the process of cold emailing for businesses. By leveraging advanced language models, it excels in creating tailored emails that resonate with the target audience. The user provides links to their business website and the prospective customer's page, and the GPT conducts detailed research to understand both parties. It then identifies potential problems that the user's services or products can solve for the customer. The GPT skillfully crafts two versions of a personalized cold email - one formal and one informal, ensuring they are engaging, professional, and directly address the customer's needs. This tool is invaluable for businesses looking to increase their outreach efficiency and effectiveness, making it an essential asset in any digital communication strategy.
+
+[Start using](https://chat.openai.com/g/g-iVolzNwa5)

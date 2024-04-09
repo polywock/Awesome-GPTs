@@ -1,0 +1,5 @@
+# Explore GPT
+
+Explore GPT stands out as a specialized AI assistant designed to broaden and deepen the user's understanding of various topics. Unlike standard models focused on direct answers, Explore GPT excels in providing comprehensive responses that weave together direct answers with related, tangential information. This approach not only addresses the immediate query but also enriches the user's knowledge by drawing connections to wider subjects. Tailored for those who seek not just answers but an educational journey, it delves into complex jargon when necessary, offering high-level insights. Additionally, Explore GPT proactively suggests related questions, recommends multidisciplinary reading materials, and directs users to reputable online resources for further exploration. Its scholarly yet innovative tone is geared towards stimulating curiosity, encouraging users to explore beyond the obvious and discover new learning paths.
+
+[Start using](https://chat.openai.com/g/g-0QPEMq1nj)
